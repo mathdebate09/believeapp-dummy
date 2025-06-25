@@ -64,13 +64,13 @@
         "twitterURL": "pasternak"
       },
       "marketSummary": {
-        "marketCap": 117494614.661649,
-        "volume": 10776366.601672,
-        "holder": 33397,
-        "liquidity": 2276286.18720964,
-        "price": 0.11750954297771
+        "marketCap": 109262681.742957,
+        "volume": 11253703.1289299,
+        "holder": 33333,
+        "liquidity": 2030412.28412946,
+        "price": 0.109276564290657
       },
-      "tokenPrice": 0.117817551073473,
+      "tokenPrice": 0.108836091699212,
       "tweetInput": {
         "mentionId": "1915552322844848446",
         "tweetId": "1916184738261323802",
@@ -201,13 +201,13 @@
           "twitterURL": "https://twitter.com/dupedotcom/status/1772028652558950801"
         },
         "marketSummary": {
-          "marketCap": 23313630.312242,
-          "volume": 207706.520616379,
-          "holder": 7072,
-          "liquidity": 1039007.36385457,
-          "price": 0.0233148231744977
+          "marketCap": 22661445.5576288,
+          "volume": 206311.326274056,
+          "holder": 7070,
+          "liquidity": 976113.645909636,
+          "price": 0.022662605050282
         },
-        "tokenPrice": 0.0232195690066129,
+        "tokenPrice": 0.0226683464000075,
         "tweetInput": {
           "mentionId": "1c4fdcb6-01b7-498d-a575-54b149960938",
           "tweetId": "1917017659473883599",
@@ -346,13 +346,13 @@
           "twitterURL": "https://twitter.com/Kingnet_AI/status/1922993865939673485"
         },
         "marketSummary": {
-          "marketCap": 9206194.69195941,
-          "volume": 347442.314770998,
-          "holder": 5576,
-          "liquidity": 421178.461622059,
-          "price": 0.00920642357630652
+          "marketCap": 8268987.31809241,
+          "volume": 333401.099303036,
+          "holder": 5553,
+          "liquidity": 405575.21986633,
+          "price": 0.00826919436802844
         },
-        "tokenPrice": 0.00890257262663212,
+        "tokenPrice": 0.00843543738451851,
         "tweetInput": {
           "mentionId": "c7d47c97-7fa1-454f-a901-7fa4a1a5f240",
           "tweetId": "1922993865939673485",
@@ -485,13 +485,13 @@
           "twitterURL": "https://twitter.com/polycule_bot/status/1923077431398650322"
         },
         "marketSummary": {
-          "marketCap": 7173557.7726744,
-          "volume": 679075.081943976,
-          "holder": 4041,
-          "liquidity": 622010.294365192,
-          "price": 0.00717363995250318
+          "marketCap": 7295550.74435587,
+          "volume": 437528.241212888,
+          "holder": 4030,
+          "liquidity": 613682.607630015,
+          "price": 0.0072956343255497
         },
-        "tokenPrice": 0.00716998942545557,
+        "tokenPrice": 0.00730895891770476,
         "tweetInput": {
           "mentionId": "4a9aa3df-a182-4a97-88be-3084346c2af5",
           "tweetId": "1923078608592977951",
@@ -630,13 +630,13 @@
           "twitterURL": "https://twitter.com/fittedcloset/status/1921992685788766614"
         },
         "marketSummary": {
-          "marketCap": 4644216.54996466,
-          "volume": 235206.512807634,
-          "holder": 4251,
-          "liquidity": 267850.968510286,
-          "price": 0.00502959483778373
+          "marketCap": 3982827.61489433,
+          "volume": 268677.537920014,
+          "holder": 4263,
+          "liquidity": 240485.397440301,
+          "price": 0.00431332371357583
         },
-        "tokenPrice": 0.00502878741474846,
+        "tokenPrice": 0.00431332371357583,
         "tweetInput": {
           "mentionId": "612bff0c-5edc-4d42-a095-0d4b432e8a0f",
           "tweetId": "1921997448437748014",
@@ -775,13 +775,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 3040913.55288337,
-          "volume": 35195.0522263601,
-          "holder": 5279,
-          "liquidity": 219305.585790337,
-          "price": 0.00304857146047255
+          "marketCap": 2772622.52903521,
+          "volume": 36644.8961700608,
+          "holder": 5256,
+          "liquidity": 202713.077017473,
+          "price": 0.00277960480154569
         },
-        "tokenPrice": 0.00307430829708988,
+        "tokenPrice": 0.00280199593561282,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -792,6 +792,280 @@
         },
         "dateCreated": "2025-05-14T22:18:32.627Z",
         "dateUpdated": "2025-05-14T22:18:32.570Z",
+        "tokenomicsFeatures": null,
+        "flags": null,
+        "tokenCategory": "PROJECT",
+        "mentionId": null,
+        "blockCreatorFees": false,
+        "version": 1
+      },
+      {
+        "id": "75da0489-15d6-4f6d-aaeb-df1857cca87c",
+        "twitterUserId": "1369348853414178822",
+        "userId": "e228217d-1033-410a-a48f-ba11b3a37a9f",
+        "ticker": "BUDDY",
+        "name": "CreatorBuddy",
+        "description": "I HATE that Grok doesn't have access to my X posts\n\nSo I built a custom AI that does\n\nAsk the AI any question you want about your ENTIRE content history. Get insight on how to improve your content instantly: https://t.co/QzEZp0mNBK",
+        "verificationStatus": "UNVERIFIED",
+        "avatarImg": "https://benpasternak.me/hosting/cb.jpg",
+        "featuredStatus": "FEATURED",
+        "status": "LAUNCHED",
+        "statusMsg": null,
+        "mintAddress": "65svCEvM4HdBHXKDxfhjm3yw1A6mKXkdS6HXWXDQTSNA",
+        "dateMinted": "2025-05-01T00:07:06.225Z",
+        "media": [],
+        "tokenomics": {
+          "version": 1,
+          "tokenSupply": 1000000000,
+          "decimals": 9,
+          "tokenType": "SPL_TOKEN",
+          "lp": {
+
+          },
+          "bondingCurve": {
+            "configTxHash": "2u91NxnyBoeQ5p4xhZ3vFsnREoUAqfWf9yKK4v8CMpLkMV1v4DSZWgXLQebrZJp8uZB1fvubudZSiDB31RcjrMA6",
+            "migrationMarketcapUSD": "70000",
+            "priceSOL": "147.992900500",
+            "migrationMarketcapSOL": 101,
+            "configKey": "8i5vbdRxfbKvcfjNRCidHwtrKzkmsdWRzWopKKxfm2R2",
+            "configParams": {
+              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
+              "config": "8i5vbdRxfbKvcfjNRCidHwtrKzkmsdWRzWopKKxfm2R2",
+              "quoteMint": "So11111111111111111111111111111111111111112",
+              "feeClaimer": "4reXoKBD8XVmmycQckRipXvkfyMKRSqt1izaLKeF2eXm",
+              "leftoverReceiver": "4reXoKBD8XVmmycQckRipXvkfyMKRSqt1izaLKeF2eXm",
+              "buildCurveByMarketCapParam": {
+                "tokenType": 0,
+                "baseFeeBps": 5000,
+                "lockedVesting": {
+                  "frequency": "00",
+                  "numberOfPeriod": "00",
+                  "amountPerPeriod": "00",
+                  "cliffUnlockAmount": "00",
+                  "cliffDurationFromMigrationTime": "00"
+                },
+                "activationType": 0,
+                "collectFeeMode": 0,
+                "migrationOption": 0,
+                "initialMarketCap": 101.356213367816,
+                "tokenBaseDecimal": 9,
+                "totalTokenSupply": 1000000000,
+                "dynamicFeeEnabled": true,
+                "feeSchedulerParam": {
+                  "numberOfPeriod": 37.5,
+                  "periodFrequency": 1,
+                  "reductionFactor": 822.5,
+                  "feeSchedulerMode": 1
+                },
+                "tokenQuoteDecimal": 9,
+                "migrationFeeOption": 3,
+                "migrationMarketCap": 472.995662383143,
+                "creatorLpPercentage": 0,
+                "partnerLpPercentage": 0,
+                "creatorLockedLpPercentage": 100,
+                "partnerLockedLpPercentage": 0
+              }
+            },
+            "migrationProgress": 0,
+            "migrationStatus": "NOT_MIGRATED",
+            "configWallet": "8i5vbdRxfbKvcfjNRCidHwtrKzkmsdWRzWopKKxfm2R2",
+            "feePayerWallet": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
+            "feeClaimerWallet": "4reXoKBD8XVmmycQckRipXvkfyMKRSqt1izaLKeF2eXm",
+            "poolAddress": "FGTM4ZP8bN73Kcj1HnXmBmqVqSvsPy3KKJCQFVg1qB3p",
+            "poolConfig": "8i5vbdRxfbKvcfjNRCidHwtrKzkmsdWRzWopKKxfm2R2",
+            "poolTxHash": "2GoCXrzBgjwvaigyDWbDADrcxrFmvs3fjJpHE794oAAZXaa41uTYZiEd221hCEwYGKmwfqsRmNVFfupHsmDVAjVY",
+            "createPoolParams": {
+              "uri": "https://ipfs.io/ipfs/bafkreifkergotz75ylrzw6wplhuvb2xh3m5r2gkyh5shwcxzvpyuegorcu",
+              "name": "CreatorBuddy",
+              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
+              "config": "8i5vbdRxfbKvcfjNRCidHwtrKzkmsdWRzWopKKxfm2R2",
+              "symbol": "BUDDY",
+              "baseMint": "65svCEvM4HdBHXKDxfhjm3yw1A6mKXkdS6HXWXDQTSNA",
+              "quoteMint": "So11111111111111111111111111111111111111112",
+              "poolCreator": "4reXoKBD8XVmmycQckRipXvkfyMKRSqt1izaLKeF2eXm",
+              "baseTokenType": 0,
+              "quoteTokenType": 0
+            }
+          },
+          "creatorIntermediateWallet": {
+            "walletName": "BELIEVE_TOKEN_LAUNCHES",
+            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
+            "address": "FKHezFxvbUD3XyTHnaxvT4HoVEKxMjZYr6L2mZkhTsHP"
+          },
+          "scoutIntermediateWallet": {
+            "walletName": "BELIEVE_TOKEN_LAUNCHES",
+            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
+            "address": "9J1AZL3z5DH6mbGUddeT85275vKwig9tBaof4xuSbco6"
+          },
+          "holdingWallet": {
+            "walletName": "BELIEVE_TOKEN_LAUNCHES",
+            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
+            "address": "4reXoKBD8XVmmycQckRipXvkfyMKRSqt1izaLKeF2eXm"
+          }
+        },
+        "launchedBy": {
+          "userId": "",
+          "twitterUserId": "1369348853414178822",
+          "name": "AlexFinnX",
+          "avatarURL": "https://pbs.twimg.com/profile_images/1745232634278461440/7gQcr_R__normal.jpg",
+          "instagramURL": "",
+          "twitterURL": "https://twitter.com/AlexFinnX/status/1917708314844225694"
+        },
+        "marketSummary": {
+          "marketCap": 2138619.08510652,
+          "volume": 112148.75399166,
+          "holder": 3584,
+          "liquidity": 138444.865452398,
+          "price": 0.00213886876088617
+        },
+        "tokenPrice": 0.00213676442559238,
+        "tweetInput": {
+          "mentionId": "f7dc5301-6ae2-4ed9-8012-45919fc455bf",
+          "tweetId": "1917732321916248165",
+          "twitterConversationId": "1917708314844225694",
+          "tweetCreatorUsername": "AlexFinnX",
+          "tweetCreatorUserId": "1369348853414178822",
+          "tweetReplyAuthorId": "1369348853414178822"
+        },
+        "dateCreated": "2025-05-01T00:06:59.468Z",
+        "dateUpdated": "2025-05-02T21:31:34.782Z",
+        "tokenomicsFeatures": null,
+        "flags": null,
+        "tokenCategory": "PROJECT",
+        "mentionId": null,
+        "blockCreatorFees": false,
+        "version": 1
+      },
+      {
+        "id": "63dafa1c-95d4-4351-a795-e36c529ec678",
+        "twitterUserId": "1300113022107615232",
+        "userId": "e4e7f768-07ac-4120-a914-13937e5459c3",
+        "ticker": "GIGGLES",
+        "name": "Giggles",
+        "description": "This is Giggles. We have 110K signups, 150M views on social media. Nothing spent on marketing. \n\nMillennials have Facebook, Gen Z have TikTok, Gen Alpha will have Giggles. Tag a friend for a free invite.\n\n@launchcoin $GIGGLES + Giggles https://t.co/1Sse2OJkUG",
+        "verificationStatus": "UNVERIFIED",
+        "avatarImg": "https://benpasternak.me/hosting/giggles.jpg",
+        "featuredStatus": "FEATURED",
+        "status": "LAUNCHED",
+        "statusMsg": null,
+        "mintAddress": "Bsow2wFkVzy1itJnhLke6VRTqoEkYQZp7kbwPtS87FyN",
+        "dateMinted": "2025-05-07T00:45:20.493Z",
+        "media": [],
+        "tokenomics": {
+          "version": 1,
+          "tokenSupply": 1000000000,
+          "decimals": 9,
+          "tokenType": "SPL_TOKEN",
+          "lp": {
+
+          },
+          "bondingCurve": {
+            "configTxHash": "4NiDqVfTSWWeEyvdU8GwTWsoseW5L4pfoc22L8u72V5Tnisx19brKtuBtTzbUzvs8x7HuqJvcdbTtaVjiv8YVnFS",
+            "migrationMarketcapUSD": "75000",
+            "priceSOL": "148.549799000",
+            "migrationMarketcapSOL": 168,
+            "configKey": "CycMm992gnCD9A56JwH1FgSbGGgabEJBnUWGZu66iVkf",
+            "configParams": {
+              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
+              "config": "CycMm992gnCD9A56JwH1FgSbGGgabEJBnUWGZu66iVkf",
+              "quoteMint": "So11111111111111111111111111111111111111112",
+              "feeClaimer": "EdKZxutqwuQXHB5LhB5PWfJzQvvjFC2KHsLa8c5qHrqi",
+              "leftoverReceiver": "EdKZxutqwuQXHB5LhB5PWfJzQvvjFC2KHsLa8c5qHrqi",
+              "buildCurveByMarketCapParam": {
+                "tokenType": 0,
+                "baseFeeBps": 5000,
+                "lockedVesting": {
+                  "frequency": "00",
+                  "numberOfPeriod": "00",
+                  "amountPerPeriod": "00",
+                  "cliffUnlockAmount": "00",
+                  "cliffDurationFromMigrationTime": "00"
+                },
+                "activationType": 0,
+                "collectFeeMode": 0,
+                "migrationOption": 0,
+                "initialMarketCap": 168.293731585594,
+                "tokenBaseDecimal": 9,
+                "totalTokenSupply": 1000000000,
+                "dynamicFeeEnabled": true,
+                "feeSchedulerParam": {
+                  "numberOfPeriod": 37.5,
+                  "periodFrequency": 1,
+                  "reductionFactor": 822.5,
+                  "feeSchedulerMode": 1
+                },
+                "tokenQuoteDecimal": 9,
+                "migrationFeeOption": 3,
+                "migrationMarketCap": 504.881194756783,
+                "creatorLpPercentage": 0,
+                "partnerLpPercentage": 0,
+                "creatorLockedLpPercentage": 100,
+                "partnerLockedLpPercentage": 0
+              }
+            },
+            "migrationProgress": 0,
+            "migrationStatus": "NOT_MIGRATED",
+            "configWallet": "CycMm992gnCD9A56JwH1FgSbGGgabEJBnUWGZu66iVkf",
+            "feePayerWallet": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
+            "feeClaimerWallet": "EdKZxutqwuQXHB5LhB5PWfJzQvvjFC2KHsLa8c5qHrqi",
+            "poolAddress": "C9nDpBCn3966idun4adfbrw7bkShTviwrQJqx1Nv4yLe",
+            "poolConfig": "CycMm992gnCD9A56JwH1FgSbGGgabEJBnUWGZu66iVkf",
+            "poolTxHash": "5sHcnipPHt9JyfsA1yxVxmxHLnaE33T9CNwbJDHEMm5s7YtnPbJiZzbJhSToG8nVRHZrY7giCk7XpxPK1siUG1pz",
+            "createPoolParams": {
+              "uri": "https://ipfs.io/ipfs/bafkreichuakb3cihqjpexibe23hmcdcycrrixc6ozvmvt27niq3is3a3ri",
+              "name": "Giggles",
+              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
+              "config": "CycMm992gnCD9A56JwH1FgSbGGgabEJBnUWGZu66iVkf",
+              "symbol": "GIGGLES",
+              "baseMint": "Bsow2wFkVzy1itJnhLke6VRTqoEkYQZp7kbwPtS87FyN",
+              "quoteMint": "So11111111111111111111111111111111111111112",
+              "poolCreator": "EdKZxutqwuQXHB5LhB5PWfJzQvvjFC2KHsLa8c5qHrqi",
+              "baseTokenType": 0,
+              "quoteTokenType": 0
+            }
+          },
+          "creatorIntermediateWallet": {
+            "walletName": "BELIEVE_TOKEN_LAUNCHES",
+            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
+            "address": "2A4dz4PtyktXXXboyVV2a9R6yJAswMdyUngKZ3J7ca9p"
+          },
+          "scoutIntermediateWallet": {
+            "walletName": "BELIEVE_TOKEN_LAUNCHES",
+            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
+            "address": "DzRZCSRkucy4F5P9CmbXvUGXmTYQmf8BNwWJm9niuwjm"
+          },
+          "holdingWallet": {
+            "walletName": "BELIEVE_TOKEN_LAUNCHES",
+            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
+            "address": "EdKZxutqwuQXHB5LhB5PWfJzQvvjFC2KHsLa8c5qHrqi"
+          }
+        },
+        "launchedBy": {
+          "userId": "",
+          "twitterUserId": "1300113022107615232",
+          "name": "justinmujin",
+          "avatarURL": "https://pbs.twimg.com/profile_images/1880139238639009792/iVmolRZ5_normal.jpg",
+          "instagramURL": "",
+          "twitterURL": "https://twitter.com/justinmujin/status/1919916252383862834"
+        },
+        "marketSummary": {
+          "marketCap": 1926397.89126369,
+          "volume": 79426.9929621676,
+          "holder": 1861,
+          "liquidity": 143469.633277299,
+          "price": 0.00192740681356585
+        },
+        "tokenPrice": 0.00199322515886991,
+        "tweetInput": {
+          "mentionId": "d0c25cbd-01a0-4ee8-adc2-1c2ad17bcc2c",
+          "tweetId": "1919916252383862834",
+          "twitterConversationId": "1919916252383862834",
+          "tweetCreatorUsername": "justinmujin",
+          "tweetCreatorUserId": "1300113022107615232",
+          "tweetReplyAuthorId": "1300113022107615232"
+        },
+        "dateCreated": "2025-05-07T00:45:13.380Z",
+        "dateUpdated": "2025-05-07T00:45:30.850Z",
         "tokenomicsFeatures": null,
         "flags": null,
         "tokenCategory": "PROJECT",
@@ -923,13 +1197,13 @@
           "twitterURL": "https://twitter.com/subyhq/status/1915780026173186194"
         },
         "marketSummary": {
-          "marketCap": 2064472.19870754,
-          "volume": 293904.925065958,
-          "holder": 1539,
-          "liquidity": 124429.277913552,
-          "price": 0.00206449427635935
+          "marketCap": 1849719.88117644,
+          "volume": 298610.328766263,
+          "holder": 1553,
+          "liquidity": 116502.470334702,
+          "price": 0.00184973966716151
         },
-        "tokenPrice": 0.00203190400633084,
+        "tokenPrice": 0.00179814258561415,
         "tweetInput": {
           "mentionId": "4294bb68-e29a-4afb-970e-b1e60c828324",
           "tweetId": "1917109482443694465",
@@ -948,22 +1222,28 @@
         "version": 1
       },
       {
-        "id": "63dafa1c-95d4-4351-a795-e36c529ec678",
-        "twitterUserId": "1300113022107615232",
-        "userId": "e4e7f768-07ac-4120-a914-13937e5459c3",
-        "ticker": "GIGGLES",
-        "name": "Giggles",
-        "description": "This is Giggles. We have 110K signups, 150M views on social media. Nothing spent on marketing. \n\nMillennials have Facebook, Gen Z have TikTok, Gen Alpha will have Giggles. Tag a friend for a free invite.\n\n@launchcoin $GIGGLES + Giggles https://t.co/1Sse2OJkUG",
+        "id": "187ed60a-59da-4b8d-937e-d2514e3c4c06",
+        "twitterUserId": "1889089807403626496",
+        "userId": "f90962d2-9f56-46ae-a73f-acad31065796",
+        "ticker": "RUNNIT",
+        "name": "Runnit",
+        "description": "Gamble On-Chain | Provably Fair, Non-Custodial, No KYC. Built on Solana.",
         "verificationStatus": "UNVERIFIED",
-        "avatarImg": "https://benpasternak.me/hosting/giggles.jpg",
+        "avatarImg": "https://dpiknhejtrohakoouanp.supabase.co/storage/v1/object/public/token-media/clout/719069f9-1fe0-42ab-a584-6e2a31f7217b-favicon.png",
         "featuredStatus": "FEATURED",
         "status": "LAUNCHED",
         "statusMsg": null,
-        "mintAddress": "Bsow2wFkVzy1itJnhLke6VRTqoEkYQZp7kbwPtS87FyN",
-        "dateMinted": "2025-05-07T00:45:20.493Z",
-        "media": [],
+        "mintAddress": "5mjbjHRb327yvcWUc5WPywhCbYi32pqUqxPUCtpipBLV",
+        "dateMinted": "2025-06-09T23:04:18.859Z",
+        "media": [
+          {
+            "type": "IMAGE",
+            "mediaURL": "https://dpiknhejtrohakoouanp.supabase.co/storage/v1/object/public/token-media/clout/ec13b99a-c6ca-4cd2-88aa-0dbd9ccbb727-header.jpg",
+            "position": 0
+          }
+        ],
         "tokenomics": {
-          "version": 1,
+          "version": 4,
           "tokenSupply": 1000000000,
           "decimals": 9,
           "tokenType": "SPL_TOKEN",
@@ -971,133 +1251,166 @@
 
           },
           "bondingCurve": {
-            "configTxHash": "4NiDqVfTSWWeEyvdU8GwTWsoseW5L4pfoc22L8u72V5Tnisx19brKtuBtTzbUzvs8x7HuqJvcdbTtaVjiv8YVnFS",
+            "configTxHash": "3nnpmwGMUFudtJpi81PhY734puYS1a4r3uXHh2KwifwgDZkDrhgBNh9PTzPSqYxgtCU3QVrqnvfcfiMpJsy54mYL",
             "migrationMarketcapUSD": "75000",
-            "priceSOL": "148.549799000",
-            "migrationMarketcapSOL": 168,
-            "configKey": "CycMm992gnCD9A56JwH1FgSbGGgabEJBnUWGZu66iVkf",
+            "priceSOL": "157.966141000",
+            "migrationMarketcapSOL": 475,
+            "configKey": "CKupGn17nQ3Qjv35UKuGa9cHqDrnGxGEQsjT9xH5RRZK",
             "configParams": {
+              "curve": [
+                {
+                  "liquidity": "02078a12a40f0c8729b326d0a4aa78",
+                  "sqrtPrice": "2d7efb92957a27"
+                },
+                {
+                  "liquidity": "08e1c728851d5dcc91fe2384",
+                  "sqrtPrice": "fffec4b1845c1aa94e69579b"
+                }
+              ],
               "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-              "config": "CycMm992gnCD9A56JwH1FgSbGGgabEJBnUWGZu66iVkf",
+              "config": "CKupGn17nQ3Qjv35UKuGa9cHqDrnGxGEQsjT9xH5RRZK",
+              "padding0": [],
+              "padding1": [],
+              "poolFees": {
+                "baseFee": {
+                  "numberOfPeriod": 150,
+                  "periodFrequency": "01",
+                  "reductionFactor": "d4",
+                  "feeSchedulerMode": 1,
+                  "cliffFeeNumerator": "1dcd6500"
+                },
+                "dynamicFee": {
+                  "binStep": 1,
+                  "binStepU128": "068db8bac710cb",
+                  "decayPeriod": 120,
+                  "filterPeriod": 10,
+                  "reductionFactor": 5000,
+                  "variableFeeControl": 1913,
+                  "maxVolatilityAccumulator": 14460000
+                }
+              },
               "quoteMint": "So11111111111111111111111111111111111111112",
-              "feeClaimer": "EdKZxutqwuQXHB5LhB5PWfJzQvvjFC2KHsLa8c5qHrqi",
-              "leftoverReceiver": "EdKZxutqwuQXHB5LhB5PWfJzQvvjFC2KHsLa8c5qHrqi",
-              "buildCurveByMarketCapParam": {
-                "tokenType": 0,
-                "baseFeeBps": 5000,
-                "lockedVesting": {
-                  "frequency": "00",
-                  "numberOfPeriod": "00",
-                  "amountPerPeriod": "00",
-                  "cliffUnlockAmount": "00",
-                  "cliffDurationFromMigrationTime": "00"
-                },
-                "activationType": 0,
-                "collectFeeMode": 0,
-                "migrationOption": 0,
-                "initialMarketCap": 168.293731585594,
-                "tokenBaseDecimal": 9,
-                "totalTokenSupply": 1000000000,
-                "dynamicFeeEnabled": true,
-                "feeSchedulerParam": {
-                  "numberOfPeriod": 37.5,
-                  "periodFrequency": 1,
-                  "reductionFactor": 822.5,
-                  "feeSchedulerMode": 1
-                },
-                "tokenQuoteDecimal": 9,
-                "migrationFeeOption": 3,
-                "migrationMarketCap": 504.881194756783,
-                "creatorLpPercentage": 0,
-                "partnerLpPercentage": 0,
-                "creatorLockedLpPercentage": 100,
-                "partnerLockedLpPercentage": 0
-              }
+              "tokenType": 0,
+              "feeClaimer": "9supzj2Nbnjut3r9UFfWE2RiuAenQMoYaNtZXmmtm5oC",
+              "tokenSupply": {
+                "preMigrationTokenSupply": "0de0b6b3a7640000",
+                "postMigrationTokenSupply": "0de0b6b3a7640000"
+              },
+              "tokenDecimal": 9,
+              "lockedVesting": {
+                "frequency": "00",
+                "numberOfPeriod": "00",
+                "amountPerPeriod": "00",
+                "cliffUnlockAmount": "00",
+                "cliffDurationFromMigrationTime": "00"
+              },
+              "activationType": 0,
+              "collectFeeMode": 0,
+              "sqrtStartPrice": "19976e637459ad",
+              "migrationOption": 1,
+              "leftoverReceiver": "9supzj2Nbnjut3r9UFfWE2RiuAenQMoYaNtZXmmtm5oC",
+              "migrationFeeOption": 3,
+              "creatorLpPercentage": 0,
+              "partnerLpPercentage": 0,
+              "migrationQuoteThreshold": "28652b7fb1",
+              "creatorLockedLpPercentage": 70,
+              "partnerLockedLpPercentage": 30,
+              "creatorTradingFeePercentage": 70
             },
             "migrationProgress": 0,
             "migrationStatus": "NOT_MIGRATED",
-            "configWallet": "CycMm992gnCD9A56JwH1FgSbGGgabEJBnUWGZu66iVkf",
+            "configWallet": "CKupGn17nQ3Qjv35UKuGa9cHqDrnGxGEQsjT9xH5RRZK",
             "feePayerWallet": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-            "feeClaimerWallet": "EdKZxutqwuQXHB5LhB5PWfJzQvvjFC2KHsLa8c5qHrqi",
-            "poolAddress": "C9nDpBCn3966idun4adfbrw7bkShTviwrQJqx1Nv4yLe",
-            "poolConfig": "CycMm992gnCD9A56JwH1FgSbGGgabEJBnUWGZu66iVkf",
-            "poolTxHash": "5sHcnipPHt9JyfsA1yxVxmxHLnaE33T9CNwbJDHEMm5s7YtnPbJiZzbJhSToG8nVRHZrY7giCk7XpxPK1siUG1pz",
+            "feeClaimerWallet": "9supzj2Nbnjut3r9UFfWE2RiuAenQMoYaNtZXmmtm5oC",
+            "poolAddress": "FMD8MybZ9T9dbFxXZFCPf1HZZEySeyyYydvn8cgx1qGH",
+            "poolConfig": "CKupGn17nQ3Qjv35UKuGa9cHqDrnGxGEQsjT9xH5RRZK",
+            "poolTxHash": "22DFkxTphmNdWt82EKQVpqRkBXgNYJmk4kJttnzvWomTfYVuKzcftJMjW2NDRVo4hedb88v8Ctd38ntnMiUpPsss",
             "createPoolParams": {
-              "uri": "https://ipfs.io/ipfs/bafkreichuakb3cihqjpexibe23hmcdcycrrixc6ozvmvt27niq3is3a3ri",
-              "name": "Giggles",
+              "uri": "https://ipfs.io/ipfs/bafkreigivoqpk2atajajjb6lcbrbuakrhthli22o52syn7ujh7llejtbku",
+              "name": "Runnit",
               "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-              "config": "CycMm992gnCD9A56JwH1FgSbGGgabEJBnUWGZu66iVkf",
-              "symbol": "GIGGLES",
-              "baseMint": "Bsow2wFkVzy1itJnhLke6VRTqoEkYQZp7kbwPtS87FyN",
+              "config": "CKupGn17nQ3Qjv35UKuGa9cHqDrnGxGEQsjT9xH5RRZK",
+              "symbol": "RUNNIT",
+              "baseMint": "5mjbjHRb327yvcWUc5WPywhCbYi32pqUqxPUCtpipBLV",
               "quoteMint": "So11111111111111111111111111111111111111112",
-              "poolCreator": "EdKZxutqwuQXHB5LhB5PWfJzQvvjFC2KHsLa8c5qHrqi",
+              "poolCreator": "963TYnsrJs7DZZhzczUJF8Ann1dEujDjmUVhbeYXR43H",
               "baseTokenType": 0,
               "quoteTokenType": 0
             }
           },
-          "creatorIntermediateWallet": {
-            "walletName": "BELIEVE_TOKEN_LAUNCHES",
-            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "2A4dz4PtyktXXXboyVV2a9R6yJAswMdyUngKZ3J7ca9p"
+          "companyWallet": {
+            "walletName": "B24_COMPANY_TREASURY_WALLETS",
+            "walletId": "0a59fcc2-0e9e-552a-b0a2-c344afeac6d2",
+            "address": "9supzj2Nbnjut3r9UFfWE2RiuAenQMoYaNtZXmmtm5oC"
           },
-          "scoutIntermediateWallet": {
+          "companyHoldingWallet": {
             "walletName": "BELIEVE_TOKEN_LAUNCHES",
             "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "DzRZCSRkucy4F5P9CmbXvUGXmTYQmf8BNwWJm9niuwjm"
+            "address": "C2QsC7uQmQY1AwvJykwGhaZYG9fM3kh5JTH3q4ybYGT1"
           },
-          "holdingWallet": {
+          "temporaryCompanyReceiverWallet": {
             "walletName": "BELIEVE_TOKEN_LAUNCHES",
             "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "EdKZxutqwuQXHB5LhB5PWfJzQvvjFC2KHsLa8c5qHrqi"
+            "address": "6KxiJr3TmkCRdziWJxoCbNbFvbaCz2EJ1kjgpKRKffUF"
+          },
+          "creatorIntermediateNFTWallet": {
+            "multisig": "G62cYVhvxbKwfHhyNZZzdLF9GkYSH7Pz4YJfxX45Dce8",
+            "walletAddress": "963TYnsrJs7DZZhzczUJF8Ann1dEujDjmUVhbeYXR43H",
+            "txHash": "4ryVAWhZTNTsAzX2GAemzXayUi5JvJ15yavsLyvavxMKDvg7D1o91g4pJr3cxJnbCURsTNszwFNGzAVq1ETekfU8"
+          },
+          "creatorWallet": {
+            "walletName": "SUB_ORG_WALLETS",
+            "walletId": "fb1aa87b-c3fd-54d1-995f-5323eedd8cd5",
+            "address": "6ysur647A4ypuqQFup58Dr2GRG8FG6gsqBYf8zgHosqB"
           }
         },
         "launchedBy": {
-          "userId": "",
-          "twitterUserId": "1300113022107615232",
-          "name": "justinmujin",
-          "avatarURL": "https://pbs.twimg.com/profile_images/1880139238639009792/iVmolRZ5_normal.jpg",
+          "userId": "f90962d2-9f56-46ae-a73f-acad31065796",
+          "twitterUserId": "1889089807403626496",
+          "name": "runnitdotfun",
+          "avatarURL": "https://pbs.twimg.com/profile_images/1917118050324910083/4UwS5isv_normal.jpg",
           "instagramURL": "",
-          "twitterURL": "https://twitter.com/justinmujin/status/1919916252383862834"
+          "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 2052055.5086032,
-          "volume": 94396.697827159,
-          "holder": 1866,
-          "liquidity": 149483.444590859,
-          "price": 0.00205313024221732
+          "marketCap": 1215146.68333529,
+          "volume": 104802.908011527,
+          "holder": 1598,
+          "liquidity": 202483.125103128,
+          "price": 0.00121933656917688
         },
-        "tokenPrice": 0.00205313024221732,
+        "tokenPrice": 0.00122492397260761,
         "tweetInput": {
-          "mentionId": "d0c25cbd-01a0-4ee8-adc2-1c2ad17bcc2c",
-          "tweetId": "1919916252383862834",
-          "twitterConversationId": "1919916252383862834",
-          "tweetCreatorUsername": "justinmujin",
-          "tweetCreatorUserId": "1300113022107615232",
-          "tweetReplyAuthorId": "1300113022107615232"
+          "mentionId": "",
+          "tweetId": "",
+          "twitterConversationId": "",
+          "tweetCreatorUsername": "runnitdotfun",
+          "tweetCreatorUserId": "1889089807403626496",
+          "tweetReplyAuthorId": "1889089807403626496"
         },
-        "dateCreated": "2025-05-07T00:45:13.380Z",
-        "dateUpdated": "2025-05-07T00:45:30.850Z",
+        "dateCreated": "2025-06-09T23:03:59.033Z",
+        "dateUpdated": "2025-06-09T23:17:22.977Z",
         "tokenomicsFeatures": null,
         "flags": null,
         "tokenCategory": "PROJECT",
         "mentionId": null,
         "blockCreatorFees": false,
-        "version": 1
+        "version": 4
       },
       {
-        "id": "75da0489-15d6-4f6d-aaeb-df1857cca87c",
-        "twitterUserId": "1369348853414178822",
-        "userId": "e228217d-1033-410a-a48f-ba11b3a37a9f",
-        "ticker": "BUDDY",
-        "name": "CreatorBuddy",
-        "description": "I HATE that Grok doesn't have access to my X posts\n\nSo I built a custom AI that does\n\nAsk the AI any question you want about your ENTIRE content history. Get insight on how to improve your content instantly: https://t.co/QzEZp0mNBK",
+        "id": "0d436418-195e-4c39-afa7-3ca539290db8",
+        "twitterUserId": "1244080188670930945",
+        "userId": "07a1f913-bece-4bd5-bc02-4c28b3890736",
+        "ticker": "GLMPS",
+        "name": "glympse",
+        "description": "Glympse.fun is fantasy sports for Web2 attention, where creators earn as others bet on their performance.\n\nBuy tokens of your favorite X accounts and draft teams you think will have the best engagement to win prizes.\nToday it's X. Soon: Twitch, Spotify, TikTok, YouTube and more.\n\nCreators trade like memecoins, but now, they’re backed by real engagement.\nNow, anyone create a market for their social presence.",
         "verificationStatus": "UNVERIFIED",
-        "avatarImg": "https://benpasternak.me/hosting/cb.jpg",
+        "avatarImg": "https://dpiknhejtrohakoouanp.supabase.co/storage/v1/object/public/profile-images/clout/b0b274d4-1a83-441b-bd79-a02637c0a1e1-avatar_C143A2B1-99AF-4CC8-9081-1D349C7D627F.jpg",
         "featuredStatus": "FEATURED",
         "status": "LAUNCHED",
         "statusMsg": null,
-        "mintAddress": "65svCEvM4HdBHXKDxfhjm3yw1A6mKXkdS6HXWXDQTSNA",
-        "dateMinted": "2025-05-01T00:07:06.225Z",
+        "mintAddress": "445ksMigJLms4mw29DQkXs8aWBG4S8Z2kTBCtGhd5nGd",
+        "dateMinted": "2025-05-14T17:47:19.494Z",
         "media": [],
         "tokenomics": {
           "version": 1,
@@ -1108,18 +1421,19 @@
 
           },
           "bondingCurve": {
-            "configTxHash": "2u91NxnyBoeQ5p4xhZ3vFsnREoUAqfWf9yKK4v8CMpLkMV1v4DSZWgXLQebrZJp8uZB1fvubudZSiDB31RcjrMA6",
-            "migrationMarketcapUSD": "70000",
-            "priceSOL": "147.992900500",
-            "migrationMarketcapSOL": 101,
-            "configKey": "8i5vbdRxfbKvcfjNRCidHwtrKzkmsdWRzWopKKxfm2R2",
+            "configTxHash": "5e8e6RB5rrdj3jiEF2Fs2fDhEXWnaeg4CZzKRseFeN5xfqbmx4odeKS6U7HHyxaWGg61kDTzRCq4nSmnBb5zFg8t",
+            "migrationMarketcapUSD": "75000",
+            "priceSOL": "175.134904000",
+            "migrationMarketcapSOL": 143,
+            "configKey": "EssMqb1dcYs3ATVkw2xCegudKockJVjCozEz2aeVSZH4",
             "configParams": {
               "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-              "config": "8i5vbdRxfbKvcfjNRCidHwtrKzkmsdWRzWopKKxfm2R2",
+              "config": "EssMqb1dcYs3ATVkw2xCegudKockJVjCozEz2aeVSZH4",
               "quoteMint": "So11111111111111111111111111111111111111112",
-              "feeClaimer": "4reXoKBD8XVmmycQckRipXvkfyMKRSqt1izaLKeF2eXm",
-              "leftoverReceiver": "4reXoKBD8XVmmycQckRipXvkfyMKRSqt1izaLKeF2eXm",
+              "feeClaimer": "CB3ZHmpYNKCoSSR94HUSwEXntSbkPu9L8cDqsoZMgeS9",
+              "leftoverReceiver": "CB3ZHmpYNKCoSSR94HUSwEXntSbkPu9L8cDqsoZMgeS9",
               "buildCurveByMarketCapParam": {
+                "leftover": 0,
                 "tokenType": 0,
                 "baseFeeBps": 5000,
                 "lockedVesting": {
@@ -1132,7 +1446,7 @@
                 "activationType": 0,
                 "collectFeeMode": 0,
                 "migrationOption": 0,
-                "initialMarketCap": 101.356213367816,
+                "initialMarketCap": 142.747101971175,
                 "tokenBaseDecimal": 9,
                 "totalTokenSupply": 1000000000,
                 "dynamicFeeEnabled": true,
@@ -1144,30 +1458,31 @@
                 },
                 "tokenQuoteDecimal": 9,
                 "migrationFeeOption": 3,
-                "migrationMarketCap": 472.995662383143,
+                "migrationMarketCap": 428.241305913526,
                 "creatorLpPercentage": 0,
                 "partnerLpPercentage": 0,
                 "creatorLockedLpPercentage": 100,
-                "partnerLockedLpPercentage": 0
+                "partnerLockedLpPercentage": 0,
+                "creatorTradingFeePercentage": 100
               }
             },
             "migrationProgress": 0,
             "migrationStatus": "NOT_MIGRATED",
-            "configWallet": "8i5vbdRxfbKvcfjNRCidHwtrKzkmsdWRzWopKKxfm2R2",
+            "configWallet": "EssMqb1dcYs3ATVkw2xCegudKockJVjCozEz2aeVSZH4",
             "feePayerWallet": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-            "feeClaimerWallet": "4reXoKBD8XVmmycQckRipXvkfyMKRSqt1izaLKeF2eXm",
-            "poolAddress": "FGTM4ZP8bN73Kcj1HnXmBmqVqSvsPy3KKJCQFVg1qB3p",
-            "poolConfig": "8i5vbdRxfbKvcfjNRCidHwtrKzkmsdWRzWopKKxfm2R2",
-            "poolTxHash": "2GoCXrzBgjwvaigyDWbDADrcxrFmvs3fjJpHE794oAAZXaa41uTYZiEd221hCEwYGKmwfqsRmNVFfupHsmDVAjVY",
+            "feeClaimerWallet": "CB3ZHmpYNKCoSSR94HUSwEXntSbkPu9L8cDqsoZMgeS9",
+            "poolAddress": "8iJtayRzuX1CZWSk6HH17o3P9JLdq3mbapshzAVQPZ5Z",
+            "poolConfig": "EssMqb1dcYs3ATVkw2xCegudKockJVjCozEz2aeVSZH4",
+            "poolTxHash": "2Ee6afTAQRDzLEB9JwSt83DXZQXxpnxy7gt6y57WLHojsJ5mYbbnR7zZEmSPg3pxLuyEAzKZG8iSY7xfMNYvNNuL",
             "createPoolParams": {
-              "uri": "https://ipfs.io/ipfs/bafkreifkergotz75ylrzw6wplhuvb2xh3m5r2gkyh5shwcxzvpyuegorcu",
-              "name": "CreatorBuddy",
+              "uri": "https://ipfs.io/ipfs/bafkreic3oybnvlmbzq7go7453qydipn73rdkvobv3rrdkeztzey6va744e",
+              "name": "glympse",
               "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-              "config": "8i5vbdRxfbKvcfjNRCidHwtrKzkmsdWRzWopKKxfm2R2",
-              "symbol": "BUDDY",
-              "baseMint": "65svCEvM4HdBHXKDxfhjm3yw1A6mKXkdS6HXWXDQTSNA",
+              "config": "EssMqb1dcYs3ATVkw2xCegudKockJVjCozEz2aeVSZH4",
+              "symbol": "GLMPS",
+              "baseMint": "445ksMigJLms4mw29DQkXs8aWBG4S8Z2kTBCtGhd5nGd",
               "quoteMint": "So11111111111111111111111111111111111111112",
-              "poolCreator": "4reXoKBD8XVmmycQckRipXvkfyMKRSqt1izaLKeF2eXm",
+              "poolCreator": "CB3ZHmpYNKCoSSR94HUSwEXntSbkPu9L8cDqsoZMgeS9",
               "baseTokenType": 0,
               "quoteTokenType": 0
             }
@@ -1175,45 +1490,45 @@
           "creatorIntermediateWallet": {
             "walletName": "BELIEVE_TOKEN_LAUNCHES",
             "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "FKHezFxvbUD3XyTHnaxvT4HoVEKxMjZYr6L2mZkhTsHP"
+            "address": "GRDN7SeF3YKUPRYLGroNHH7q3u8e5AkTikcecCDytwZA"
           },
           "scoutIntermediateWallet": {
             "walletName": "BELIEVE_TOKEN_LAUNCHES",
             "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "9J1AZL3z5DH6mbGUddeT85275vKwig9tBaof4xuSbco6"
+            "address": "Ab9hXbkPR5wjdX4joVautuAb4T9U4VnYzTu9ZY6oh4sj"
           },
           "holdingWallet": {
             "walletName": "BELIEVE_TOKEN_LAUNCHES",
             "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "4reXoKBD8XVmmycQckRipXvkfyMKRSqt1izaLKeF2eXm"
+            "address": "CB3ZHmpYNKCoSSR94HUSwEXntSbkPu9L8cDqsoZMgeS9"
           }
         },
         "launchedBy": {
           "userId": "",
-          "twitterUserId": "1369348853414178822",
-          "name": "AlexFinnX",
-          "avatarURL": "https://pbs.twimg.com/profile_images/1745232634278461440/7gQcr_R__normal.jpg",
+          "twitterUserId": "1244080188670930945",
+          "name": "fiatphobia",
+          "avatarURL": "https://pbs.twimg.com/profile_images/1861236812309794816/aox7K5s5_normal.jpg",
           "instagramURL": "",
-          "twitterURL": "https://twitter.com/AlexFinnX/status/1917708314844225694"
+          "twitterURL": "https://twitter.com/fiatphobia/status/1922710150483530003"
         },
         "marketSummary": {
-          "marketCap": 2004683.73166556,
-          "volume": 166386.770917856,
-          "holder": 3596,
-          "liquidity": 137269.070275141,
-          "price": 0.00200491777099362
+          "marketCap": 1169464.12078937,
+          "volume": 135933.465169616,
+          "holder": 3002,
+          "liquidity": 106521.704711722,
+          "price": 0.00116947089593978
         },
-        "tokenPrice": 0.00207344301077869,
+        "tokenPrice": 0.00113278214610477,
         "tweetInput": {
-          "mentionId": "f7dc5301-6ae2-4ed9-8012-45919fc455bf",
-          "tweetId": "1917732321916248165",
-          "twitterConversationId": "1917708314844225694",
-          "tweetCreatorUsername": "AlexFinnX",
-          "tweetCreatorUserId": "1369348853414178822",
-          "tweetReplyAuthorId": "1369348853414178822"
+          "mentionId": "82488ea9-5de2-455e-8978-21226f606409",
+          "tweetId": "1922710152945254723",
+          "twitterConversationId": "1922710150483530003",
+          "tweetCreatorUsername": "fiatphobia",
+          "tweetCreatorUserId": "1244080188670930945",
+          "tweetReplyAuthorId": "1244080188670930945"
         },
-        "dateCreated": "2025-05-01T00:06:59.468Z",
-        "dateUpdated": "2025-05-02T21:31:34.782Z",
+        "dateCreated": "2025-05-14T17:47:09.611Z",
+        "dateUpdated": "2025-05-21T14:42:23.563Z",
         "tokenomicsFeatures": null,
         "flags": null,
         "tokenCategory": "PROJECT",
@@ -1368,13 +1683,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 1429589.89543914,
-          "volume": 144126.242164498,
-          "holder": 833,
-          "liquidity": 189235.778754645,
-          "price": 0.00142959366157182
+          "marketCap": 1122643.45267359,
+          "volume": 152438.897929573,
+          "holder": 818,
+          "liquidity": 174746.669216907,
+          "price": 0.00112264641018204
         },
-        "tokenPrice": 0.00143041753466227,
+        "tokenPrice": 0.00114666180531268,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -1391,182 +1706,6 @@
         "mentionId": null,
         "blockCreatorFees": false,
         "version": 2
-      },
-      {
-        "id": "187ed60a-59da-4b8d-937e-d2514e3c4c06",
-        "twitterUserId": "1889089807403626496",
-        "userId": "f90962d2-9f56-46ae-a73f-acad31065796",
-        "ticker": "RUNNIT",
-        "name": "Runnit",
-        "description": "Gamble On-Chain | Provably Fair, Non-Custodial, No KYC. Built on Solana.",
-        "verificationStatus": "UNVERIFIED",
-        "avatarImg": "https://dpiknhejtrohakoouanp.supabase.co/storage/v1/object/public/token-media/clout/719069f9-1fe0-42ab-a584-6e2a31f7217b-favicon.png",
-        "featuredStatus": "FEATURED",
-        "status": "LAUNCHED",
-        "statusMsg": null,
-        "mintAddress": "5mjbjHRb327yvcWUc5WPywhCbYi32pqUqxPUCtpipBLV",
-        "dateMinted": "2025-06-09T23:04:18.859Z",
-        "media": [
-          {
-            "type": "IMAGE",
-            "mediaURL": "https://dpiknhejtrohakoouanp.supabase.co/storage/v1/object/public/token-media/clout/ec13b99a-c6ca-4cd2-88aa-0dbd9ccbb727-header.jpg",
-            "position": 0
-          }
-        ],
-        "tokenomics": {
-          "version": 4,
-          "tokenSupply": 1000000000,
-          "decimals": 9,
-          "tokenType": "SPL_TOKEN",
-          "lp": {
-
-          },
-          "bondingCurve": {
-            "configTxHash": "3nnpmwGMUFudtJpi81PhY734puYS1a4r3uXHh2KwifwgDZkDrhgBNh9PTzPSqYxgtCU3QVrqnvfcfiMpJsy54mYL",
-            "migrationMarketcapUSD": "75000",
-            "priceSOL": "157.966141000",
-            "migrationMarketcapSOL": 475,
-            "configKey": "CKupGn17nQ3Qjv35UKuGa9cHqDrnGxGEQsjT9xH5RRZK",
-            "configParams": {
-              "curve": [
-                {
-                  "liquidity": "02078a12a40f0c8729b326d0a4aa78",
-                  "sqrtPrice": "2d7efb92957a27"
-                },
-                {
-                  "liquidity": "08e1c728851d5dcc91fe2384",
-                  "sqrtPrice": "fffec4b1845c1aa94e69579b"
-                }
-              ],
-              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-              "config": "CKupGn17nQ3Qjv35UKuGa9cHqDrnGxGEQsjT9xH5RRZK",
-              "padding0": [],
-              "padding1": [],
-              "poolFees": {
-                "baseFee": {
-                  "numberOfPeriod": 150,
-                  "periodFrequency": "01",
-                  "reductionFactor": "d4",
-                  "feeSchedulerMode": 1,
-                  "cliffFeeNumerator": "1dcd6500"
-                },
-                "dynamicFee": {
-                  "binStep": 1,
-                  "binStepU128": "068db8bac710cb",
-                  "decayPeriod": 120,
-                  "filterPeriod": 10,
-                  "reductionFactor": 5000,
-                  "variableFeeControl": 1913,
-                  "maxVolatilityAccumulator": 14460000
-                }
-              },
-              "quoteMint": "So11111111111111111111111111111111111111112",
-              "tokenType": 0,
-              "feeClaimer": "9supzj2Nbnjut3r9UFfWE2RiuAenQMoYaNtZXmmtm5oC",
-              "tokenSupply": {
-                "preMigrationTokenSupply": "0de0b6b3a7640000",
-                "postMigrationTokenSupply": "0de0b6b3a7640000"
-              },
-              "tokenDecimal": 9,
-              "lockedVesting": {
-                "frequency": "00",
-                "numberOfPeriod": "00",
-                "amountPerPeriod": "00",
-                "cliffUnlockAmount": "00",
-                "cliffDurationFromMigrationTime": "00"
-              },
-              "activationType": 0,
-              "collectFeeMode": 0,
-              "sqrtStartPrice": "19976e637459ad",
-              "migrationOption": 1,
-              "leftoverReceiver": "9supzj2Nbnjut3r9UFfWE2RiuAenQMoYaNtZXmmtm5oC",
-              "migrationFeeOption": 3,
-              "creatorLpPercentage": 0,
-              "partnerLpPercentage": 0,
-              "migrationQuoteThreshold": "28652b7fb1",
-              "creatorLockedLpPercentage": 70,
-              "partnerLockedLpPercentage": 30,
-              "creatorTradingFeePercentage": 70
-            },
-            "migrationProgress": 0,
-            "migrationStatus": "NOT_MIGRATED",
-            "configWallet": "CKupGn17nQ3Qjv35UKuGa9cHqDrnGxGEQsjT9xH5RRZK",
-            "feePayerWallet": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-            "feeClaimerWallet": "9supzj2Nbnjut3r9UFfWE2RiuAenQMoYaNtZXmmtm5oC",
-            "poolAddress": "FMD8MybZ9T9dbFxXZFCPf1HZZEySeyyYydvn8cgx1qGH",
-            "poolConfig": "CKupGn17nQ3Qjv35UKuGa9cHqDrnGxGEQsjT9xH5RRZK",
-            "poolTxHash": "22DFkxTphmNdWt82EKQVpqRkBXgNYJmk4kJttnzvWomTfYVuKzcftJMjW2NDRVo4hedb88v8Ctd38ntnMiUpPsss",
-            "createPoolParams": {
-              "uri": "https://ipfs.io/ipfs/bafkreigivoqpk2atajajjb6lcbrbuakrhthli22o52syn7ujh7llejtbku",
-              "name": "Runnit",
-              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-              "config": "CKupGn17nQ3Qjv35UKuGa9cHqDrnGxGEQsjT9xH5RRZK",
-              "symbol": "RUNNIT",
-              "baseMint": "5mjbjHRb327yvcWUc5WPywhCbYi32pqUqxPUCtpipBLV",
-              "quoteMint": "So11111111111111111111111111111111111111112",
-              "poolCreator": "963TYnsrJs7DZZhzczUJF8Ann1dEujDjmUVhbeYXR43H",
-              "baseTokenType": 0,
-              "quoteTokenType": 0
-            }
-          },
-          "companyWallet": {
-            "walletName": "B24_COMPANY_TREASURY_WALLETS",
-            "walletId": "0a59fcc2-0e9e-552a-b0a2-c344afeac6d2",
-            "address": "9supzj2Nbnjut3r9UFfWE2RiuAenQMoYaNtZXmmtm5oC"
-          },
-          "companyHoldingWallet": {
-            "walletName": "BELIEVE_TOKEN_LAUNCHES",
-            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "C2QsC7uQmQY1AwvJykwGhaZYG9fM3kh5JTH3q4ybYGT1"
-          },
-          "temporaryCompanyReceiverWallet": {
-            "walletName": "BELIEVE_TOKEN_LAUNCHES",
-            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "6KxiJr3TmkCRdziWJxoCbNbFvbaCz2EJ1kjgpKRKffUF"
-          },
-          "creatorIntermediateNFTWallet": {
-            "multisig": "G62cYVhvxbKwfHhyNZZzdLF9GkYSH7Pz4YJfxX45Dce8",
-            "walletAddress": "963TYnsrJs7DZZhzczUJF8Ann1dEujDjmUVhbeYXR43H",
-            "txHash": "4ryVAWhZTNTsAzX2GAemzXayUi5JvJ15yavsLyvavxMKDvg7D1o91g4pJr3cxJnbCURsTNszwFNGzAVq1ETekfU8"
-          },
-          "creatorWallet": {
-            "walletName": "SUB_ORG_WALLETS",
-            "walletId": "fb1aa87b-c3fd-54d1-995f-5323eedd8cd5",
-            "address": "6ysur647A4ypuqQFup58Dr2GRG8FG6gsqBYf8zgHosqB"
-          }
-        },
-        "launchedBy": {
-          "userId": "f90962d2-9f56-46ae-a73f-acad31065796",
-          "twitterUserId": "1889089807403626496",
-          "name": "runnitdotfun",
-          "avatarURL": "https://pbs.twimg.com/profile_images/1917118050324910083/4UwS5isv_normal.jpg",
-          "instagramURL": "",
-          "twitterURL": ""
-        },
-        "marketSummary": {
-          "marketCap": 1144942.42721294,
-          "volume": 198442.239836514,
-          "holder": 1624,
-          "liquidity": 201656.426993832,
-          "price": 0.00114889024321849
-        },
-        "tokenPrice": 0.00114889024321849,
-        "tweetInput": {
-          "mentionId": "",
-          "tweetId": "",
-          "twitterConversationId": "",
-          "tweetCreatorUsername": "runnitdotfun",
-          "tweetCreatorUserId": "1889089807403626496",
-          "tweetReplyAuthorId": "1889089807403626496"
-        },
-        "dateCreated": "2025-06-09T23:03:59.033Z",
-        "dateUpdated": "2025-06-09T23:17:22.977Z",
-        "tokenomicsFeatures": null,
-        "flags": null,
-        "tokenCategory": "PROJECT",
-        "mentionId": null,
-        "blockCreatorFees": false,
-        "version": 4
       },
       {
         "id": "cd699261-5ba4-4779-9302-9242cd35d7c0",
@@ -1683,13 +1822,13 @@
           "twitterURL": "https://twitter.com/rohanarora_/status/1924635529930539112"
         },
         "marketSummary": {
-          "marketCap": 1097869.34899408,
-          "volume": 70881.0331955588,
-          "holder": 2773,
-          "liquidity": 104414.774545836,
-          "price": 0.00109789252196041
+          "marketCap": 1010991.54613003,
+          "volume": 84948.3706626504,
+          "holder": 2761,
+          "liquidity": 98833.7354426376,
+          "price": 0.00101101288534774
         },
-        "tokenPrice": 0.00110197365435091,
+        "tokenPrice": 0.00101092012235978,
         "tweetInput": {
           "mentionId": "c44781b5-2951-4fe8-8157-e8dea3f9068a",
           "tweetId": "1924636090549600498",
@@ -1828,13 +1967,13 @@
           "twitterURL": "https://twitter.com/believe_capital/status/1923166270377296052"
         },
         "marketSummary": {
-          "marketCap": 916758.87879973,
-          "volume": 56669.5575383505,
-          "holder": 1717,
-          "liquidity": 115306.370914641,
-          "price": 0.000916764999356635
+          "marketCap": 948632.766259141,
+          "volume": 42580.1188833608,
+          "holder": 1716,
+          "liquidity": 116294.320526852,
+          "price": 0.000948639099615667
         },
-        "tokenPrice": 0.000916764999356635,
+        "tokenPrice": 0.000915888445793919,
         "tweetInput": {
           "mentionId": "9645caca-b174-4f00-bf73-393c7062342e",
           "tweetId": "1923166517891563866",
@@ -1845,145 +1984,6 @@
         },
         "dateCreated": "2025-05-16T00:00:27.835Z",
         "dateUpdated": "2025-06-01T05:22:00.800Z",
-        "tokenomicsFeatures": null,
-        "flags": null,
-        "tokenCategory": "PROJECT",
-        "mentionId": null,
-        "blockCreatorFees": false,
-        "version": 1
-      },
-      {
-        "id": "0d436418-195e-4c39-afa7-3ca539290db8",
-        "twitterUserId": "1244080188670930945",
-        "userId": "07a1f913-bece-4bd5-bc02-4c28b3890736",
-        "ticker": "GLMPS",
-        "name": "glympse",
-        "description": "Glympse.fun is fantasy sports for Web2 attention, where creators earn as others bet on their performance.\n\nBuy tokens of your favorite X accounts and draft teams you think will have the best engagement to win prizes.\nToday it's X. Soon: Twitch, Spotify, TikTok, YouTube and more.\n\nCreators trade like memecoins, but now, they’re backed by real engagement.\nNow, anyone create a market for their social presence.",
-        "verificationStatus": "UNVERIFIED",
-        "avatarImg": "https://dpiknhejtrohakoouanp.supabase.co/storage/v1/object/public/profile-images/clout/b0b274d4-1a83-441b-bd79-a02637c0a1e1-avatar_C143A2B1-99AF-4CC8-9081-1D349C7D627F.jpg",
-        "featuredStatus": "FEATURED",
-        "status": "LAUNCHED",
-        "statusMsg": null,
-        "mintAddress": "445ksMigJLms4mw29DQkXs8aWBG4S8Z2kTBCtGhd5nGd",
-        "dateMinted": "2025-05-14T17:47:19.494Z",
-        "media": [],
-        "tokenomics": {
-          "version": 1,
-          "tokenSupply": 1000000000,
-          "decimals": 9,
-          "tokenType": "SPL_TOKEN",
-          "lp": {
-
-          },
-          "bondingCurve": {
-            "configTxHash": "5e8e6RB5rrdj3jiEF2Fs2fDhEXWnaeg4CZzKRseFeN5xfqbmx4odeKS6U7HHyxaWGg61kDTzRCq4nSmnBb5zFg8t",
-            "migrationMarketcapUSD": "75000",
-            "priceSOL": "175.134904000",
-            "migrationMarketcapSOL": 143,
-            "configKey": "EssMqb1dcYs3ATVkw2xCegudKockJVjCozEz2aeVSZH4",
-            "configParams": {
-              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-              "config": "EssMqb1dcYs3ATVkw2xCegudKockJVjCozEz2aeVSZH4",
-              "quoteMint": "So11111111111111111111111111111111111111112",
-              "feeClaimer": "CB3ZHmpYNKCoSSR94HUSwEXntSbkPu9L8cDqsoZMgeS9",
-              "leftoverReceiver": "CB3ZHmpYNKCoSSR94HUSwEXntSbkPu9L8cDqsoZMgeS9",
-              "buildCurveByMarketCapParam": {
-                "leftover": 0,
-                "tokenType": 0,
-                "baseFeeBps": 5000,
-                "lockedVesting": {
-                  "frequency": "00",
-                  "numberOfPeriod": "00",
-                  "amountPerPeriod": "00",
-                  "cliffUnlockAmount": "00",
-                  "cliffDurationFromMigrationTime": "00"
-                },
-                "activationType": 0,
-                "collectFeeMode": 0,
-                "migrationOption": 0,
-                "initialMarketCap": 142.747101971175,
-                "tokenBaseDecimal": 9,
-                "totalTokenSupply": 1000000000,
-                "dynamicFeeEnabled": true,
-                "feeSchedulerParam": {
-                  "numberOfPeriod": 37.5,
-                  "periodFrequency": 1,
-                  "reductionFactor": 822.5,
-                  "feeSchedulerMode": 1
-                },
-                "tokenQuoteDecimal": 9,
-                "migrationFeeOption": 3,
-                "migrationMarketCap": 428.241305913526,
-                "creatorLpPercentage": 0,
-                "partnerLpPercentage": 0,
-                "creatorLockedLpPercentage": 100,
-                "partnerLockedLpPercentage": 0,
-                "creatorTradingFeePercentage": 100
-              }
-            },
-            "migrationProgress": 0,
-            "migrationStatus": "NOT_MIGRATED",
-            "configWallet": "EssMqb1dcYs3ATVkw2xCegudKockJVjCozEz2aeVSZH4",
-            "feePayerWallet": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-            "feeClaimerWallet": "CB3ZHmpYNKCoSSR94HUSwEXntSbkPu9L8cDqsoZMgeS9",
-            "poolAddress": "8iJtayRzuX1CZWSk6HH17o3P9JLdq3mbapshzAVQPZ5Z",
-            "poolConfig": "EssMqb1dcYs3ATVkw2xCegudKockJVjCozEz2aeVSZH4",
-            "poolTxHash": "2Ee6afTAQRDzLEB9JwSt83DXZQXxpnxy7gt6y57WLHojsJ5mYbbnR7zZEmSPg3pxLuyEAzKZG8iSY7xfMNYvNNuL",
-            "createPoolParams": {
-              "uri": "https://ipfs.io/ipfs/bafkreic3oybnvlmbzq7go7453qydipn73rdkvobv3rrdkeztzey6va744e",
-              "name": "glympse",
-              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-              "config": "EssMqb1dcYs3ATVkw2xCegudKockJVjCozEz2aeVSZH4",
-              "symbol": "GLMPS",
-              "baseMint": "445ksMigJLms4mw29DQkXs8aWBG4S8Z2kTBCtGhd5nGd",
-              "quoteMint": "So11111111111111111111111111111111111111112",
-              "poolCreator": "CB3ZHmpYNKCoSSR94HUSwEXntSbkPu9L8cDqsoZMgeS9",
-              "baseTokenType": 0,
-              "quoteTokenType": 0
-            }
-          },
-          "creatorIntermediateWallet": {
-            "walletName": "BELIEVE_TOKEN_LAUNCHES",
-            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "GRDN7SeF3YKUPRYLGroNHH7q3u8e5AkTikcecCDytwZA"
-          },
-          "scoutIntermediateWallet": {
-            "walletName": "BELIEVE_TOKEN_LAUNCHES",
-            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "Ab9hXbkPR5wjdX4joVautuAb4T9U4VnYzTu9ZY6oh4sj"
-          },
-          "holdingWallet": {
-            "walletName": "BELIEVE_TOKEN_LAUNCHES",
-            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "CB3ZHmpYNKCoSSR94HUSwEXntSbkPu9L8cDqsoZMgeS9"
-          }
-        },
-        "launchedBy": {
-          "userId": "",
-          "twitterUserId": "1244080188670930945",
-          "name": "fiatphobia",
-          "avatarURL": "https://pbs.twimg.com/profile_images/1861236812309794816/aox7K5s5_normal.jpg",
-          "instagramURL": "",
-          "twitterURL": "https://twitter.com/fiatphobia/status/1922710150483530003"
-        },
-        "marketSummary": {
-          "marketCap": 697739.739003177,
-          "volume": 44168.598549374,
-          "holder": 2975,
-          "liquidity": 81624.2256789994,
-          "price": 0.000697743780946148
-        },
-        "tokenPrice": 0.000696262354503146,
-        "tweetInput": {
-          "mentionId": "82488ea9-5de2-455e-8978-21226f606409",
-          "tweetId": "1922710152945254723",
-          "twitterConversationId": "1922710150483530003",
-          "tweetCreatorUsername": "fiatphobia",
-          "tweetCreatorUserId": "1244080188670930945",
-          "tweetReplyAuthorId": "1244080188670930945"
-        },
-        "dateCreated": "2025-05-14T17:47:09.611Z",
-        "dateUpdated": "2025-05-21T14:42:23.563Z",
         "tokenomicsFeatures": null,
         "flags": null,
         "tokenCategory": "PROJECT",
@@ -2132,13 +2132,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 697552.387331484,
-          "volume": 44047.9116808843,
-          "holder": 2671,
-          "liquidity": 204221.126913103,
-          "price": 0.0006975656220098
+          "marketCap": 617592.214425004,
+          "volume": 50146.8174409729,
+          "holder": 2675,
+          "liquidity": 195168.841439759,
+          "price": 0.000617603932017026
         },
-        "tokenPrice": 0.000709280180195533,
+        "tokenPrice": 0.000627680045167495,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -2277,13 +2277,13 @@
           "twitterURL": "https://twitter.com/KevinPicchi/status/1923165678523019774"
         },
         "marketSummary": {
-          "marketCap": 640594.688024468,
-          "volume": 15401.0834220238,
+          "marketCap": 599082.554925078,
+          "volume": 10591.5129278902,
           "holder": 1241,
-          "liquidity": 117591.836328498,
-          "price": 0.000640658206053373
+          "liquidity": 114873.463768285,
+          "price": 0.000599141956827329
         },
-        "tokenPrice": 0.000640658206053373,
+        "tokenPrice": 0.000599141956827329,
         "tweetInput": {
           "mentionId": "a3198fe0-f234-4294-b5c3-c13c85a71cd5",
           "tweetId": "1923165678523019774",
@@ -2422,13 +2422,13 @@
           "twitterURL": "https://x.com/alex_leiman/status/1922075531966550488"
         },
         "marketSummary": {
-          "marketCap": 548659.849782321,
-          "volume": 41227.577699837,
-          "holder": 5179,
-          "liquidity": 82122.8310253153,
-          "price": 0.000548681106644163
+          "marketCap": 431857.338769381,
+          "volume": 57931.6137606323,
+          "holder": 5182,
+          "liquidity": 72457.4329637601,
+          "price": 0.000431874070323165
         },
-        "tokenPrice": 0.000548681106644163,
+        "tokenPrice": 0.000431874070323165,
         "tweetInput": {
           "mentionId": "e6b83179-fee2-4347-91ac-3e2cc5aeec50",
           "tweetId": "7b8a1667-99b5-40b8-a3f1-0670ebd4d16d",
@@ -2559,13 +2559,13 @@
           "twitterURL": "https://twitter.com/swunicorn/status/1907465719823962461"
         },
         "marketSummary": {
-          "marketCap": 413873.204671227,
-          "volume": 23215.7492510212,
-          "holder": 855,
-          "liquidity": 53505.1645743799,
-          "price": 0.000413916049955065
+          "marketCap": 385770.759277735,
+          "volume": 16801.29069862,
+          "holder": 854,
+          "liquidity": 51802.4418494994,
+          "price": 0.000385810719402087
         },
-        "tokenPrice": 0.000415417011035187,
+        "tokenPrice": 0.000401194416062463,
         "tweetInput": {
           "mentionId": "1d6d1ab3-e4c3-47de-91d3-63f7d38d19d9",
           "tweetId": "1917378477403079158",
@@ -2576,6 +2576,151 @@
         },
         "dateCreated": "2025-04-30T00:40:51.742Z",
         "dateUpdated": "2025-05-02T21:28:29.265Z",
+        "tokenomicsFeatures": null,
+        "flags": null,
+        "tokenCategory": "PROJECT",
+        "mentionId": null,
+        "blockCreatorFees": false,
+        "version": 1
+      },
+      {
+        "id": "177a7cb2-1b92-4cc6-90ff-f3c50da8f7ba",
+        "twitterUserId": "812436603738198017",
+        "userId": "3270e61b-df80-4290-9cbe-4d10c1c902de",
+        "ticker": "BRIX",
+        "name": "BRIX",
+        "description": "We’re building Brix: the world’s first AI-native recruiting agency. From job description to global payroll, we automate the entire hiring lifecycle. $0 → $20M ARR in 12 months, $8mil+ raised, 100+ companies onboarded and 100's of engineering, sales and more roles hired\n\nNow launching with the Believe App!",
+        "verificationStatus": "UNVERIFIED",
+        "avatarImg": "https://dpiknhejtrohakoouanp.supabase.co/storage/v1/object/public/profile-images/clout/79f5b1b9-eae8-4ebd-9fda-691c64932338-avatar_753ABD4F-2583-4773-943A-0F5B0958D883.jpg",
+        "featuredStatus": "FEATURED",
+        "status": "LAUNCHED",
+        "statusMsg": null,
+        "mintAddress": "5XEStNFNenRkAB9BtfteEL7yeM5XDZb8TZaPMJvNaPwx",
+        "dateMinted": "2025-05-23T23:29:20.929Z",
+        "media": [
+          {
+            "type": "IMAGE",
+            "mediaURL": "https://dpiknhejtrohakoouanp.supabase.co/storage/v1/object/public/token-media/clout/788221d7-feac-4b94-a3c1-7fa6bc278d35-token-media/1748042940577-f70a1zvw-Screenshot_2025-05-23_at_4.26.06_PM.png",
+            "position": 0
+          }
+        ],
+        "tokenomics": {
+          "version": 0,
+          "tokenSupply": 1000000000,
+          "decimals": 9,
+          "tokenType": "SPL_TOKEN",
+          "lp": {
+
+          },
+          "bondingCurve": {
+            "configTxHash": "DmpbUEAssM8RjqyBJGEj2XDnpgWtdPUfsLkKx3H8DBMQRxueWNC78Y8YZxVRwsa1z1xUvRhyhTY4jCtc216mVAY",
+            "migrationMarketcapUSD": "125000",
+            "priceSOL": "174.885700000",
+            "migrationMarketcapSOL": 429,
+            "configKey": "626eUNAv2Xxu1VZNGN6pf5gLTQApVP9XHvW3aVduzXAw",
+            "configParams": {
+              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
+              "config": "626eUNAv2Xxu1VZNGN6pf5gLTQApVP9XHvW3aVduzXAw",
+              "quoteMint": "So11111111111111111111111111111111111111112",
+              "feeClaimer": "GiNNUXzmbUCtxsX9mYXq7zT5L1qH8HBLf9CEgBq1hEPJ",
+              "leftoverReceiver": "GiNNUXzmbUCtxsX9mYXq7zT5L1qH8HBLf9CEgBq1hEPJ",
+              "buildCurveByMarketCapParam": {
+                "leftover": 0,
+                "tokenType": 0,
+                "baseFeeBps": 5000,
+                "lockedVesting": {
+                  "frequency": "00",
+                  "numberOfPeriod": "00",
+                  "amountPerPeriod": "00",
+                  "cliffUnlockAmount": "00",
+                  "cliffDurationFromMigrationTime": "00"
+                },
+                "activationType": 0,
+                "collectFeeMode": 0,
+                "migrationOption": 0,
+                "initialMarketCap": 428.851529884948,
+                "tokenBaseDecimal": 9,
+                "totalTokenSupply": 1000000000,
+                "dynamicFeeEnabled": true,
+                "feeSchedulerParam": {
+                  "numberOfPeriod": 37.5,
+                  "periodFrequency": 1,
+                  "reductionFactor": 822.5,
+                  "feeSchedulerMode": 1
+                },
+                "tokenQuoteDecimal": 9,
+                "migrationFeeOption": 3,
+                "migrationMarketCap": 714.752549808246,
+                "creatorLpPercentage": 0,
+                "partnerLpPercentage": 0,
+                "creatorLockedLpPercentage": 100,
+                "partnerLockedLpPercentage": 0,
+                "creatorTradingFeePercentage": 100
+              }
+            },
+            "migrationProgress": 0,
+            "migrationStatus": "NOT_MIGRATED",
+            "configWallet": "626eUNAv2Xxu1VZNGN6pf5gLTQApVP9XHvW3aVduzXAw",
+            "feePayerWallet": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
+            "feeClaimerWallet": "GiNNUXzmbUCtxsX9mYXq7zT5L1qH8HBLf9CEgBq1hEPJ",
+            "poolAddress": "CtHMXXr5bydJhLBPDeiVnjRGcFzTpz2kEimupcvY6UfK",
+            "poolConfig": "626eUNAv2Xxu1VZNGN6pf5gLTQApVP9XHvW3aVduzXAw",
+            "poolTxHash": "5zPLVCaeM7DA3ETyYLGD2Bc89jPVRkqFrn3sCLEvoQXqDCAeHxu66JgZxWm2zxfBwkBcGGDDipUVmgS71m6CTRX4",
+            "createPoolParams": {
+              "uri": "https://ipfs.io/ipfs/bafkreifqrm75kr264xtalmmw34w6eka35hzjp5ddye2bnfuqh2jdv5cle4",
+              "name": "BRIXJOINBRIXCOM",
+              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
+              "config": "626eUNAv2Xxu1VZNGN6pf5gLTQApVP9XHvW3aVduzXAw",
+              "symbol": "BRIX",
+              "baseMint": "5XEStNFNenRkAB9BtfteEL7yeM5XDZb8TZaPMJvNaPwx",
+              "quoteMint": "So11111111111111111111111111111111111111112",
+              "poolCreator": "GiNNUXzmbUCtxsX9mYXq7zT5L1qH8HBLf9CEgBq1hEPJ",
+              "baseTokenType": 0,
+              "quoteTokenType": 0
+            }
+          },
+          "creatorIntermediateWallet": {
+            "walletName": "BELIEVE_TOKEN_LAUNCHES",
+            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
+            "address": "6YYc9XLXS69hKxPjcfbNA6WVZLYkjYhiDNKWSXwM8tC3"
+          },
+          "scoutIntermediateWallet": {
+            "walletName": "BELIEVE_TOKEN_LAUNCHES",
+            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
+            "address": "aM2ZhJGzHXZh49cnHXgmQFF6Pq3Hi3EUx2yAczL3xuT"
+          },
+          "holdingWallet": {
+            "walletName": "BELIEVE_TOKEN_LAUNCHES",
+            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
+            "address": "GiNNUXzmbUCtxsX9mYXq7zT5L1qH8HBLf9CEgBq1hEPJ"
+          }
+        },
+        "launchedBy": {
+          "userId": "",
+          "twitterUserId": "812436603738198017",
+          "name": "shewidan",
+          "avatarURL": "https://pbs.twimg.com/profile_images/1419677372501032960/0fNp63rz_normal.jpg",
+          "instagramURL": "",
+          "twitterURL": ""
+        },
+        "marketSummary": {
+          "marketCap": 347849.542853015,
+          "volume": 20128.7361400033,
+          "holder": 1003,
+          "liquidity": 152066.664147267,
+          "price": 0.000347853182831525
+        },
+        "tokenPrice": 0.000348436674227695,
+        "tweetInput": {
+          "mentionId": "",
+          "tweetId": "",
+          "twitterConversationId": "",
+          "tweetCreatorUsername": "shewidan",
+          "tweetCreatorUserId": "812436603738198017",
+          "tweetReplyAuthorId": "812436603738198017"
+        },
+        "dateCreated": "2025-05-23T23:29:20.949Z",
+        "dateUpdated": "2025-05-23T23:41:37.854Z",
         "tokenomicsFeatures": null,
         "flags": null,
         "tokenCategory": "PROJECT",
@@ -2702,13 +2847,13 @@
           "twitterURL": "https://twitter.com/helenaeverley/status/1917001918335095272"
         },
         "marketSummary": {
-          "marketCap": 361819.281539581,
-          "volume": 9748.90045393089,
-          "holder": 1782,
-          "liquidity": 51092.3723163515,
-          "price": 0.000361828529877412
+          "marketCap": 316017.538865491,
+          "volume": 11398.0805550529,
+          "holder": 1776,
+          "liquidity": 48340.6980042688,
+          "price": 0.000316025616480779
         },
-        "tokenPrice": 0.000358746471726144,
+        "tokenPrice": 0.00032037996249092,
         "tweetInput": {
           "mentionId": "96b2d9b0-07fb-4937-9f94-ce545094278e",
           "tweetId": "1917001918335095272",
@@ -2847,13 +2992,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 341594.533250689,
-          "volume": 8045.37796930998,
-          "holder": 2561,
-          "liquidity": 56428.4414834321,
-          "price": 0.000341604768879768
+          "marketCap": 296753.784217657,
+          "volume": 8290.91666792767,
+          "holder": 2554,
+          "liquidity": 53069.6328508104,
+          "price": 0.000296762676226654
         },
-        "tokenPrice": 0.000341604768879768,
+        "tokenPrice": 0.000297010897474863,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -2864,151 +3009,6 @@
         },
         "dateCreated": "2025-05-15T01:20:35.272Z",
         "dateUpdated": "2025-05-15T05:49:25.873Z",
-        "tokenomicsFeatures": null,
-        "flags": null,
-        "tokenCategory": "PROJECT",
-        "mentionId": null,
-        "blockCreatorFees": false,
-        "version": 1
-      },
-      {
-        "id": "177a7cb2-1b92-4cc6-90ff-f3c50da8f7ba",
-        "twitterUserId": "812436603738198017",
-        "userId": "3270e61b-df80-4290-9cbe-4d10c1c902de",
-        "ticker": "BRIX",
-        "name": "BRIX",
-        "description": "We’re building Brix: the world’s first AI-native recruiting agency. From job description to global payroll, we automate the entire hiring lifecycle. $0 → $20M ARR in 12 months, $8mil+ raised, 100+ companies onboarded and 100's of engineering, sales and more roles hired\n\nNow launching with the Believe App!",
-        "verificationStatus": "UNVERIFIED",
-        "avatarImg": "https://dpiknhejtrohakoouanp.supabase.co/storage/v1/object/public/profile-images/clout/79f5b1b9-eae8-4ebd-9fda-691c64932338-avatar_753ABD4F-2583-4773-943A-0F5B0958D883.jpg",
-        "featuredStatus": "FEATURED",
-        "status": "LAUNCHED",
-        "statusMsg": null,
-        "mintAddress": "5XEStNFNenRkAB9BtfteEL7yeM5XDZb8TZaPMJvNaPwx",
-        "dateMinted": "2025-05-23T23:29:20.929Z",
-        "media": [
-          {
-            "type": "IMAGE",
-            "mediaURL": "https://dpiknhejtrohakoouanp.supabase.co/storage/v1/object/public/token-media/clout/788221d7-feac-4b94-a3c1-7fa6bc278d35-token-media/1748042940577-f70a1zvw-Screenshot_2025-05-23_at_4.26.06_PM.png",
-            "position": 0
-          }
-        ],
-        "tokenomics": {
-          "version": 0,
-          "tokenSupply": 1000000000,
-          "decimals": 9,
-          "tokenType": "SPL_TOKEN",
-          "lp": {
-
-          },
-          "bondingCurve": {
-            "configTxHash": "DmpbUEAssM8RjqyBJGEj2XDnpgWtdPUfsLkKx3H8DBMQRxueWNC78Y8YZxVRwsa1z1xUvRhyhTY4jCtc216mVAY",
-            "migrationMarketcapUSD": "125000",
-            "priceSOL": "174.885700000",
-            "migrationMarketcapSOL": 429,
-            "configKey": "626eUNAv2Xxu1VZNGN6pf5gLTQApVP9XHvW3aVduzXAw",
-            "configParams": {
-              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-              "config": "626eUNAv2Xxu1VZNGN6pf5gLTQApVP9XHvW3aVduzXAw",
-              "quoteMint": "So11111111111111111111111111111111111111112",
-              "feeClaimer": "GiNNUXzmbUCtxsX9mYXq7zT5L1qH8HBLf9CEgBq1hEPJ",
-              "leftoverReceiver": "GiNNUXzmbUCtxsX9mYXq7zT5L1qH8HBLf9CEgBq1hEPJ",
-              "buildCurveByMarketCapParam": {
-                "leftover": 0,
-                "tokenType": 0,
-                "baseFeeBps": 5000,
-                "lockedVesting": {
-                  "frequency": "00",
-                  "numberOfPeriod": "00",
-                  "amountPerPeriod": "00",
-                  "cliffUnlockAmount": "00",
-                  "cliffDurationFromMigrationTime": "00"
-                },
-                "activationType": 0,
-                "collectFeeMode": 0,
-                "migrationOption": 0,
-                "initialMarketCap": 428.851529884948,
-                "tokenBaseDecimal": 9,
-                "totalTokenSupply": 1000000000,
-                "dynamicFeeEnabled": true,
-                "feeSchedulerParam": {
-                  "numberOfPeriod": 37.5,
-                  "periodFrequency": 1,
-                  "reductionFactor": 822.5,
-                  "feeSchedulerMode": 1
-                },
-                "tokenQuoteDecimal": 9,
-                "migrationFeeOption": 3,
-                "migrationMarketCap": 714.752549808246,
-                "creatorLpPercentage": 0,
-                "partnerLpPercentage": 0,
-                "creatorLockedLpPercentage": 100,
-                "partnerLockedLpPercentage": 0,
-                "creatorTradingFeePercentage": 100
-              }
-            },
-            "migrationProgress": 0,
-            "migrationStatus": "NOT_MIGRATED",
-            "configWallet": "626eUNAv2Xxu1VZNGN6pf5gLTQApVP9XHvW3aVduzXAw",
-            "feePayerWallet": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-            "feeClaimerWallet": "GiNNUXzmbUCtxsX9mYXq7zT5L1qH8HBLf9CEgBq1hEPJ",
-            "poolAddress": "CtHMXXr5bydJhLBPDeiVnjRGcFzTpz2kEimupcvY6UfK",
-            "poolConfig": "626eUNAv2Xxu1VZNGN6pf5gLTQApVP9XHvW3aVduzXAw",
-            "poolTxHash": "5zPLVCaeM7DA3ETyYLGD2Bc89jPVRkqFrn3sCLEvoQXqDCAeHxu66JgZxWm2zxfBwkBcGGDDipUVmgS71m6CTRX4",
-            "createPoolParams": {
-              "uri": "https://ipfs.io/ipfs/bafkreifqrm75kr264xtalmmw34w6eka35hzjp5ddye2bnfuqh2jdv5cle4",
-              "name": "BRIXJOINBRIXCOM",
-              "payer": "5qWya6UjwWnGVhdSBL3hyZ7B45jbk6Byt1hwd7ohEGXE",
-              "config": "626eUNAv2Xxu1VZNGN6pf5gLTQApVP9XHvW3aVduzXAw",
-              "symbol": "BRIX",
-              "baseMint": "5XEStNFNenRkAB9BtfteEL7yeM5XDZb8TZaPMJvNaPwx",
-              "quoteMint": "So11111111111111111111111111111111111111112",
-              "poolCreator": "GiNNUXzmbUCtxsX9mYXq7zT5L1qH8HBLf9CEgBq1hEPJ",
-              "baseTokenType": 0,
-              "quoteTokenType": 0
-            }
-          },
-          "creatorIntermediateWallet": {
-            "walletName": "BELIEVE_TOKEN_LAUNCHES",
-            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "6YYc9XLXS69hKxPjcfbNA6WVZLYkjYhiDNKWSXwM8tC3"
-          },
-          "scoutIntermediateWallet": {
-            "walletName": "BELIEVE_TOKEN_LAUNCHES",
-            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "aM2ZhJGzHXZh49cnHXgmQFF6Pq3Hi3EUx2yAczL3xuT"
-          },
-          "holdingWallet": {
-            "walletName": "BELIEVE_TOKEN_LAUNCHES",
-            "walletId": "36b63f8f-0224-58f6-a21a-3f1d306ccd6f",
-            "address": "GiNNUXzmbUCtxsX9mYXq7zT5L1qH8HBLf9CEgBq1hEPJ"
-          }
-        },
-        "launchedBy": {
-          "userId": "",
-          "twitterUserId": "812436603738198017",
-          "name": "shewidan",
-          "avatarURL": "https://pbs.twimg.com/profile_images/1419677372501032960/0fNp63rz_normal.jpg",
-          "instagramURL": "",
-          "twitterURL": ""
-        },
-        "marketSummary": {
-          "marketCap": 320889.849518279,
-          "volume": 17299.6319048703,
-          "holder": 1005,
-          "liquidity": 147391.764952758,
-          "price": 0.000320893207384288
-        },
-        "tokenPrice": 0.000320893207384288,
-        "tweetInput": {
-          "mentionId": "",
-          "tweetId": "",
-          "twitterConversationId": "",
-          "tweetCreatorUsername": "shewidan",
-          "tweetCreatorUserId": "812436603738198017",
-          "tweetReplyAuthorId": "812436603738198017"
-        },
-        "dateCreated": "2025-05-23T23:29:20.949Z",
-        "dateUpdated": "2025-05-23T23:41:37.854Z",
         "tokenomicsFeatures": null,
         "flags": null,
         "tokenCategory": "PROJECT",
@@ -3135,13 +3135,13 @@
           "twitterURL": "https://twitter.com/sianyinka/status/1917355691276394801"
         },
         "marketSummary": {
-          "marketCap": 283448.525187453,
-          "volume": 23414.5161537523,
-          "holder": 1091,
-          "liquidity": 44670.5217592111,
-          "price": 0.000283476874015116
+          "marketCap": 296634.642474099,
+          "volume": 25835.657542454,
+          "holder": 1089,
+          "liquidity": 45350.2531856747,
+          "price": 0.000296664310098416
         },
-        "tokenPrice": 0.000283476874015116,
+        "tokenPrice": 0.000297999924852493,
         "tweetInput": {
           "mentionId": "cc20fef7-e341-49e8-9368-66e08505404d",
           "tweetId": "1917355691276394801",
@@ -3288,13 +3288,13 @@
           "twitterURL": "https://twitter.com/sabakarimm/status/1915141973981409417"
         },
         "marketSummary": {
-          "marketCap": 265692.920929181,
-          "volume": 36473.21999267,
-          "holder": 1051,
-          "liquidity": 43649.8742171959,
-          "price": 0.000265695109059191
+          "marketCap": 275981.014874651,
+          "volume": 12252.8678134541,
+          "holder": 1049,
+          "liquidity": 43624.5979267586,
+          "price": 0.000275983287732876
         },
-        "tokenPrice": 0.000266817919146842,
+        "tokenPrice": 0.000275983287732876,
         "tweetInput": {
           "mentionId": "769c5757-44ee-4d5b-817d-2a7e873d9810",
           "tweetId": "1917018670460797005",
@@ -3464,13 +3464,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 209287.858776932,
-          "volume": 4070.59940986078,
-          "holder": 604,
-          "liquidity": 89010.4602598062,
-          "price": 0.00020929029440642
+          "marketCap": 199718.005086528,
+          "volume": 4286.41369427587,
+          "holder": 603,
+          "liquidity": 88299.9429551012,
+          "price": 0.000199720329344921
         },
-        "tokenPrice": 0.00020929029440642,
+        "tokenPrice": 0.000199720329344921,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -3609,13 +3609,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 165353.278061878,
-          "volume": 5861.14017940461,
-          "holder": 926,
-          "liquidity": 121933.99590237,
-          "price": 0.000165361222837976
+          "marketCap": 161421.905038948,
+          "volume": 5836.02225849401,
+          "holder": 925,
+          "liquidity": 121242.834280087,
+          "price": 0.000161429660923246
         },
-        "tokenPrice": 0.000165361222837976,
+        "tokenPrice": 0.000161429660923246,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -3759,13 +3759,13 @@
           "twitterURL": "https://twitter.com/AlexDotEth/status/1922877741621223919"
         },
         "marketSummary": {
-          "marketCap": 162342.852279608,
-          "volume": 11556.9441057137,
-          "holder": 449,
-          "liquidity": 36374.5413347148,
-          "price": 0.000162346279512261
+          "marketCap": 159152.852487192,
+          "volume": 12350.0334472937,
+          "holder": 451,
+          "liquidity": 36208.3925937839,
+          "price": 0.000159156371535242
         },
-        "tokenPrice": 0.000161436624194293,
+        "tokenPrice": 0.000159156371535242,
         "tweetInput": {
           "mentionId": "da07f7fa-2103-48cd-a587-d8e37a5e32de",
           "tweetId": "1922877741621223919",
@@ -3951,13 +3951,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 145877.9462311,
-          "volume": 6561.03722212765,
-          "holder": 492,
-          "liquidity": 95447.0986296912,
-          "price": 0.000146025641049796
+          "marketCap": 106181.195164343,
+          "volume": 10555.6708636395,
+          "holder": 486,
+          "liquidity": 89954.9231160387,
+          "price": 0.000106288698819103
         },
-        "tokenPrice": 0.000145028262583326,
+        "tokenPrice": 0.000106288698819103,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -4096,13 +4096,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 95102.8131163605,
-          "volume": 333.096930349219,
-          "holder": 846,
-          "liquidity": 100021.628944637,
-          "price": 0.000095115897394108
+          "marketCap": 86790.1669534468,
+          "volume": 2934.55358489423,
+          "holder": 844,
+          "liquidity": 97888.2177794643,
+          "price": 0.000086802107574475
         },
-        "tokenPrice": 0.000095115897394108,
+        "tokenPrice": 0.00008616269526621,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -4241,13 +4241,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 79162.3502536803,
-          "volume": 10119.3995166801,
-          "holder": 608,
-          "liquidity": 106744.817857615,
-          "price": 0.000079169513458076
+          "marketCap": 79446.294052464,
+          "volume": 10194.8239263379,
+          "holder": 602,
+          "liquidity": 105879.58049466,
+          "price": 0.000079453482950229
         },
-        "tokenPrice": 0.000079169513458076,
+        "tokenPrice": 0.000077347292431839,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -4380,13 +4380,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 59938.080504987,
-          "volume": 659.609335392763,
-          "holder": 750,
-          "liquidity": 52557.6493979604,
-          "price": 0.000059939482837887
+          "marketCap": 70514.2496616966,
+          "volume": 1830.05634436511,
+          "holder": 752,
+          "liquidity": 53831.3635622634,
+          "price": 0.000070515899438456
         },
-        "tokenPrice": 0.000059939482837887,
+        "tokenPrice": 0.000068960942203483,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -4551,13 +4551,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 25223.3427106805,
-          "volume": 581.4408809568,
-          "holder": 353,
-          "liquidity": 79867.0078701117,
-          "price": 0.000025225371944736
+          "marketCap": 26730.5238888531,
+          "volume": 418.276326069882,
+          "holder": 354,
+          "liquidity": 80129.6806706373,
+          "price": 0.000026732674376599
         },
-        "tokenPrice": 0.000025225371944736,
+        "tokenPrice": 0.000026732674376599,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -4744,13 +4744,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 135287.41440421,
-          "volume": 15828.1086870558,
-          "holder": 585,
-          "liquidity": 78176.9281398884,
-          "price": 0.000135288492015748
+          "marketCap": 107914.798845017,
+          "volume": 13219.2582896969,
+          "holder": 578,
+          "liquidity": 73966.9349909382,
+          "price": 0.000107915658424106
         },
-        "tokenPrice": 0.000135288492015748,
+        "tokenPrice": 0.000107915658424106,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -4920,13 +4920,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 19484.7978647628,
-          "volume": 306.40193282681,
-          "holder": 312,
-          "liquidity": 58014.7026847131,
-          "price": 0.000019486351967804
+          "marketCap": 18654.3673708535,
+          "volume": 162.633070639976,
+          "holder": 311,
+          "liquidity": 57965.775652028,
+          "price": 0.000018655855238948
         },
-        "tokenPrice": 0.000019486351967804,
+        "tokenPrice": 0.000018655855238948,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -5091,13 +5091,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 180063.732774862,
-          "volume": 7691.51767294242,
-          "holder": 1299,
-          "liquidity": 129427.203861305,
-          "price": 0.000185837118364452
+          "marketCap": 173119.287319979,
+          "volume": 6614.20624410282,
+          "holder": 1296,
+          "liquidity": 127865.716869821,
+          "price": 0.000178670013072971
         },
-        "tokenPrice": 0.000185837118364452,
+        "tokenPrice": 0.000178670013072971,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -5271,7 +5271,7 @@
           "instagramURL": "",
           "twitterURL": ""
         },
-        "tokenPrice": 0.000594110459049182,
+        "tokenPrice": 0.000654891653383936,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -5425,13 +5425,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 498732.445820526,
-          "volume": 33878.4731107472,
-          "holder": 744,
-          "liquidity": 105808.383572474,
-          "price": 0.000498740246427155
+          "marketCap": 533540.57033916,
+          "volume": 35938.890596789,
+          "holder": 741,
+          "liquidity": 107248.262375767,
+          "price": 0.000533548915374949
         },
-        "tokenPrice": 0.000495458053418058,
+        "tokenPrice": 0.000533548915374949,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -5570,13 +5570,13 @@
           "twitterURL": ""
         },
         "marketSummary": {
-          "marketCap": 87597.3889538223,
-          "volume": 14969.5746702442,
-          "holder": 476,
-          "liquidity": 57798.6682262697,
-          "price": 0.000087597987759113
+          "marketCap": 88029.0145708337,
+          "volume": 16413.528314604,
+          "holder": 478,
+          "liquidity": 58126.5575119383,
+          "price": 0.000088029616326666
         },
-        "tokenPrice": 0.000085991197851049,
+        "tokenPrice": 0.000088029616326666,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -5729,7 +5729,7 @@
           "instagramURL": "",
           "twitterURL": ""
         },
-        "tokenPrice": 0.000051684417205948,
+        "tokenPrice": 0.000054037524057705,
         "tweetInput": {
           "mentionId": "",
           "tweetId": "",
@@ -5862,13 +5862,13 @@
           "twitterURL": "https://twitter.com/nikunjness/status/1900058097173082501"
         },
         "marketSummary": {
-          "marketCap": 92585.0112143367,
-          "volume": 1700.43612263001,
-          "holder": 420,
-          "liquidity": 27424.5259109689,
-          "price": 0.00009258904824382
+          "marketCap": 89061.7216524697,
+          "volume": 860.11433505624,
+          "holder": 418,
+          "liquidity": 27320.7435766366,
+          "price": 0.000089065605054237
         },
-        "tokenPrice": 0.00009258904824382,
+        "tokenPrice": 0.000088789810082961,
         "tweetInput": {
           "mentionId": "20d14251-f7a3-452d-bef5-3a97f208b1e1",
           "tweetId": "1922727459092398090",
@@ -6007,13 +6007,13 @@
           "twitterURL": "https://twitter.com/WishMasterUA/status/1922647809213214973"
         },
         "marketSummary": {
-          "marketCap": 195113.379576162,
-          "volume": 27599.367453793,
+          "marketCap": 191469.987165094,
+          "volume": 22989.849136828,
           "holder": 933,
-          "liquidity": 39494.5075993823,
-          "price": 0.000195293734285684
+          "liquidity": 39574.7428859488,
+          "price": 0.000191646974073897
         },
-        "tokenPrice": 0.000195293734285684,
+        "tokenPrice": 0.000186461782652819,
         "tweetInput": {
           "mentionId": "b4bed5c3-f253-4769-b819-06b89cfe1f76",
           "tweetId": "1922647809213214973",
@@ -6152,11 +6152,11 @@
           "twitterURL": "https://twitter.com/absurdfounder/status/1922613781168885942"
         },
         "marketSummary": {
-          "marketCap": 756746.060672009,
-          "volume": 103372.106548538,
-          "holder": 1584,
-          "liquidity": 83613.4593681386,
-          "price": 0.000778477465049776
+          "marketCap": 913813.407863337,
+          "volume": 97101.1759120886,
+          "holder": 1585,
+          "liquidity": 90603.1477907788,
+          "price": 0.000940055300255176
         },
         "tokenPrice": 0.00063711421867666,
         "tweetInput": {
@@ -6297,13 +6297,13 @@
           "twitterURL": "https://twitter.com/uberdotfun/status/1922517962856022095"
         },
         "marketSummary": {
-          "marketCap": 97837.5969441611,
-          "volume": 2601.9185413646,
-          "holder": 3798,
-          "liquidity": 34967.8295708292,
-          "price": 0.0000978431617084
+          "marketCap": 95528.748065975,
+          "volume": 1177.27737962738,
+          "holder": 3794,
+          "liquidity": 34390.981785922,
+          "price": 0.000095534226520129
         },
-        "tokenPrice": 0.000098084202815137,
+        "tokenPrice": 0.000093335722141041,
         "tweetInput": {
           "mentionId": "ae28e2e5-8fef-4f5a-a044-9d12cef679e4",
           "tweetId": "1922532992083194357",
@@ -6435,14 +6435,7 @@
           "instagramURL": "",
           "twitterURL": "https://twitter.com/nanowisp/status/1922365452086304881"
         },
-        "marketSummary": {
-          "marketCap": 203028.943883754,
-          "volume": 2811.58766878402,
-          "holder": 2932,
-          "liquidity": 48345.1894299288,
-          "price": 0.000203051982205882
-        },
-        "tokenPrice": 0.000202986856785302,
+        "tokenPrice": 0.000191911532988508,
         "tweetInput": {
           "mentionId": "9631ab7e-e9ec-480c-8f2a-268531d36d46",
           "tweetId": "1922487966821142596",
@@ -6581,13 +6574,13 @@
           "twitterURL": "https://twitter.com/0x_ultra/status/1922358450392007046"
         },
         "marketSummary": {
-          "marketCap": 69302.5914702028,
-          "volume": 8.91400264342083,
-          "holder": 777,
-          "liquidity": 35988.1503746038,
-          "price": 0.000069320642337385
+          "marketCap": 73237.066091784,
+          "volume": 1524.62664374862,
+          "holder": 775,
+          "liquidity": 36644.4456403492,
+          "price": 0.000073256141750065
         },
-        "tokenPrice": 0.000069003167728961,
+        "tokenPrice": 0.000073256141750065,
         "tweetInput": {
           "mentionId": "4ac605f0-9388-474e-8569-12b42062a20f",
           "tweetId": "1922376260027646121",
@@ -6730,7 +6723,14 @@
           "instagramURL": "",
           "twitterURL": "https://twitter.com/whoistheahole/status/1922321485919588561"
         },
-        "tokenPrice": 0.000030813313999201,
+        "marketSummary": {
+          "marketCap": 30595.8878275826,
+          "volume": 1079.47164451378,
+          "holder": 654,
+          "liquidity": 16041.1440430042,
+          "price": 0.000030598376325412
+        },
+        "tokenPrice": 0.000030598376325412,
         "tweetInput": {
           "mentionId": "3b06e805-4532-4251-b4fb-b08e6dea42fc",
           "tweetId": "1922321485919588561",
@@ -6869,13 +6869,13 @@
           "twitterURL": "https://twitter.com/nathgilson/status/1922142676318650567"
         },
         "marketSummary": {
-          "marketCap": 212410.618224768,
-          "volume": 20445.3545952503,
+          "marketCap": 193491.244579464,
+          "volume": 18423.500305995,
           "holder": 981,
-          "liquidity": 43395.3709921328,
-          "price": 0.000212413163047782
+          "liquidity": 41480.6776077688,
+          "price": 0.000193493562735572
         },
-        "tokenPrice": 0.000212413163047782,
+        "tokenPrice": 0.000193493562735572,
         "tweetInput": {
           "mentionId": "68b77086-9a26-4437-88eb-a36bf7b9069b",
           "tweetId": "1922142676318650567",
@@ -7008,13 +7008,13 @@
           "twitterURL": "https://twitter.com/2irl4u/status/1922103873235304687"
         },
         "marketSummary": {
-          "marketCap": 161025.083019132,
-          "volume": 2908.71382719208,
-          "holder": 1203,
-          "liquidity": 38760.8743118583,
-          "price": 0.00016600698600027
+          "marketCap": 159011.945558953,
+          "volume": 1843.16363950531,
+          "holder": 1204,
+          "liquidity": 38192.5901411243,
+          "price": 0.000163931564731096
         },
-        "tokenPrice": 0.00016600698600027,
+        "tokenPrice": 0.000163931564731096,
         "tweetInput": {
           "mentionId": "f7142108-e5e1-49bb-96a4-2dce0650dc55",
           "tweetId": "1922113289741279404",
@@ -7158,13 +7158,13 @@
           "twitterURL": "https://twitter.com/chiefbruv/status/1920994117653262713"
         },
         "marketSummary": {
-          "marketCap": 56797.0614432038,
-          "volume": 503.800968152424,
-          "holder": 539,
-          "liquidity": 21772.3881179605,
-          "price": 0.000056798335770623
+          "marketCap": 54499.9816487083,
+          "volume": 670.055397519645,
+          "holder": 537,
+          "liquidity": 21690.0301287122,
+          "price": 0.000054501204437691
         },
-        "tokenPrice": 0.000056798335770623,
+        "tokenPrice": 0.000054501204437691,
         "tweetInput": {
           "mentionId": "8ff41cfa-aea0-4ef7-8d80-91e111da58a4",
           "tweetId": "1920994117653262713",
@@ -7301,13 +7301,13 @@
           "twitterURL": "https://twitter.com/jonathanzliu/status/1920151764789231850"
         },
         "marketSummary": {
-          "marketCap": 78465.6161221482,
-          "volume": 3447.21421108984,
-          "holder": 571,
-          "liquidity": 27423.035108752,
-          "price": 0.000078487392749526
+          "marketCap": 66380.1580432448,
+          "volume": 5229.88571927713,
+          "holder": 568,
+          "liquidity": 25917.0561485245,
+          "price": 0.000066398580583441
         },
-        "tokenPrice": 0.000078487392749526,
+        "tokenPrice": 0.000066398580583441,
         "tweetInput": {
           "mentionId": "ccdc524e-cd76-49cb-8287-cc720ca726f7",
           "tweetId": "1920153236541206683",
@@ -7449,13 +7449,13 @@
           "twitterURL": "https://twitter.com/mda_gold/status/1918839124615676205"
         },
         "marketSummary": {
-          "marketCap": 125846.686089192,
-          "volume": 18572.4804638068,
-          "holder": 810,
-          "liquidity": 28559.8896160191,
-          "price": 0.000125852036353828
+          "marketCap": 134556.085978181,
+          "volume": 17513.4342773913,
+          "holder": 812,
+          "liquidity": 29862.5389943052,
+          "price": 0.000134561806515532
         },
-        "tokenPrice": 0.000125852036353828,
+        "tokenPrice": 0.000133554485427074,
         "tweetInput": {
           "mentionId": "b564daed-4995-46b8-a68b-3ea3e64dc3af",
           "tweetId": "1918839124615676205",
@@ -7592,13 +7592,13 @@
           "twitterURL": "https://twitter.com/siddharthd01/status/1918103581951180849"
         },
         "marketSummary": {
-          "marketCap": 155448.779428125,
-          "volume": 4007.70267415576,
-          "holder": 1042,
-          "liquidity": 32409.8860934536,
-          "price": 0.000155452893370744
+          "marketCap": 165444.43255773,
+          "volume": 7732.27242933517,
+          "holder": 1047,
+          "liquidity": 32661.4118735204,
+          "price": 0.000165448811034709
         },
-        "tokenPrice": 0.00015577002161632,
+        "tokenPrice": 0.000164086634139622,
         "tweetInput": {
           "mentionId": "2d9026e8-dd9a-4415-a7d8-f30ad5005709",
           "tweetId": "1918103581951180849",
@@ -7735,13 +7735,13 @@
           "twitterURL": "https://twitter.com/michaelbeer01/status/1917348675732332773"
         },
         "marketSummary": {
-          "marketCap": 307676.532815133,
-          "volume": 12755.2626415169,
-          "holder": 612,
-          "liquidity": 46127.1785155691,
-          "price": 0.00030772355272185
+          "marketCap": 278028.525730037,
+          "volume": 10708.1878722739,
+          "holder": 611,
+          "liquidity": 43948.1991325018,
+          "price": 0.000278071014753248
         },
-        "tokenPrice": 0.00030772355272185,
+        "tokenPrice": 0.000278071014753248,
         "tweetInput": {
           "mentionId": "47c25a94-f85c-4ba8-99e6-02822dd7a0d2",
           "tweetId": "1917348675732332773",
@@ -7871,7 +7871,7 @@
           "instagramURL": "",
           "twitterURL": "https://twitter.com/proxima424/status/1917290995462680779"
         },
-        "tokenPrice": 0.00112735931076163,
+        "tokenPrice": 0.00104392038294841,
         "tweetInput": {
           "mentionId": "57faefa3-24a2-4b27-86e1-eda0636ab948",
           "tweetId": "1917331794170634255",
@@ -8028,13 +8028,13 @@
           "twitterURL": "https://twitter.com/jackbernnie/status/1916891367185453498"
         },
         "marketSummary": {
-          "marketCap": 84057.3177013781,
-          "volume": 3619.71030962965,
-          "holder": 786,
-          "liquidity": 24079.0349521852,
-          "price": 0.000084059146663533
+          "marketCap": 79526.9633271622,
+          "volume": 3341.55745166894,
+          "holder": 784,
+          "liquidity": 23393.3560618776,
+          "price": 0.000079528693715547
         },
-        "tokenPrice": 0.000084059146663533,
+        "tokenPrice": 0.000079528693715547,
         "tweetInput": {
           "mentionId": "6482bc4d-2422-4001-b0f6-8c3d6000e44a",
           "tweetId": "1916891367185453498",
@@ -8180,7 +8180,7 @@
           "instagramURL": "",
           "twitterURL": "https://twitter.com/veervda/status/1916880410581307774"
         },
-        "tokenPrice": 0.000055673734610991,
+        "tokenPrice": 0.000055406313826842,
         "tweetInput": {
           "mentionId": "f865e183-a6ac-44b1-b719-21ac816a7c2a",
           "tweetId": "1916880410581307774",
