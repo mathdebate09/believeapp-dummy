@@ -1,25 +1,25 @@
 {
-  "lifetimeVolume": 3792323100,
-  "coinLaunches": 40638,
-  "activeCoins": 174,
+  "lifetimeVolume": 3808680750,
+  "coinLaunches": 40744,
+  "activeCoins": 160,
   "totalMarketCap": {
-    "total": 236970000,
-    "creatorCoins": 117620000,
-    "launchCoin": 119350000
+    "total": 219720000,
+    "creatorCoins": 111010000,
+    "launchCoin": 108710000
   },
   "volume24h": {
-    "total": 41370000,
-    "creatorCoins": 18580000,
-    "launchCoin": 22790000
+    "total": 25690000,
+    "creatorCoins": 9780000,
+    "launchCoin": 15910000
   },
   "transactions24h": {
-    "total": 168640,
-    "creatorCoins": 95820,
-    "launchCoin": 72820
+    "total": 124490,
+    "creatorCoins": 57390,
+    "launchCoin": 67110
   },
   "totalLiquidity": {
-    "total": 24420000,
-    "creatorCoins": 18930000,
-    "launchCoin": 5490000
+    "total": 23400000,
+    "creatorCoins": 18000000,
+    "launchCoin": 5410000
   }
 }
